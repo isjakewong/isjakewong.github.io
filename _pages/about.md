@@ -17,6 +17,6 @@ Recent Updates
 
 Contact Information
 ------
->***Yingheng WANG*** <table><tr><td bgcolor=grey>jakewyh@tongji.edu.cn</td></tr></table></br>
-Department of Information and Communication Engineering
-Tongji University
+>***Yingheng WANG*** <table><tr><td bgcolor=#A9A9A9>jakewyh@tongji.edu.cn</td></tr></table></br>
+Department of Information and Communication Engineering</br>
+Tongji University</br>
