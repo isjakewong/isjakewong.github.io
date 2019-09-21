@@ -17,7 +17,7 @@ Recent Updates
 
 Contact Information
 ------
->***Yingheng WANG***    <td bgcolor=#696969>jakewyh@tongji.edu.cn</br>
+>***Yingheng WANG***    <table><tr><td bgcolor=#696969>jakewyh@tongji.edu.cn<td><tr><table>
 Department of Information and Communication Engineering</br>
 Tongji University</br>
 4800 Caoan Road, 201804, Shanghai, China
