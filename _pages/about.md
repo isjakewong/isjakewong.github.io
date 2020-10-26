@@ -9,15 +9,18 @@ redirect_from:
 ---
 Welcome to my personal homepage!
 
-I am a senior student at [Department of Information and Communication Engineering, Tongji University](https://comm.tongji.edu.cn/). I am now working as an undergraduate research internship in [Artificial Intelligence and Blockchain Intelligence Lab](https://mec.tongji.edu.cn/) supervised by [Professor Rui WANG](https://wangrui2014.weebly.com/). I have been a visiting student at [College of Information Science and Technology, The Pennsylvania State University](https://ist.psu.edu/), under supervision of [Professor Xiang ZHANG](https://faculty.ist.psu.edu/xzz89/) and his PhD student [Dongsheng LUO](http://personal.psu.edu/dul262/). I am going to pursue my master's degrees at [Department of Electronic Engineering, Tsinghua University](http://www.ee.tsinghua.edu.cn/) and [Department of Biomedical Engineering, Johns Hopkins University](https://www.bme.jhu.edu/). My current research interests mainly lie in the fields of data mining and analysis(with an emphasis on graph mining), image processing, indoor localization, and machine learning.
+I am pursuing my master's degrees at [Department of Electronic Engineering, Tsinghua University](http://www.ee.tsinghua.edu.cn/) and [Department of Biomedical Engineering, Johns Hopkins University](https://www.bme.jhu.edu/). I am now working at [Multimedia Signal and Intelligent Information Processing(MSIIP) Lab](http://speech.tsinghua.edu.cn/en/category/news/), advised by [Prof. Ji WU](http://www.ee.tsinghua.edu.cn/publish/eeen/3784/2010/20101219135614305780920/20101219135614305780920_.html). Previously, I graduated from [Department of Information and Communication Engineering, Tongji University](https://comm.tongji.edu.cn/). I have been a visiting student at [College of Information Science and Technology, The Pennsylvania State University](https://ist.psu.edu/), under the supervision of [Prof. Xiang ZHANG](https://faculty.ist.psu.edu/xzz89/) and his Ph.D. student [Dongsheng LUO](http://personal.psu.edu/dul262/).  My current research interests mainly lie in graph mining, drug discovery, medical natural language processing, indoor localization, and machine learning.
 
 Recent Updates
 ======
-- \[2/24/2019] One paper got accepted to [IJCSE(International Journal of Computational Science and Engineering)](https://www.inderscience.com/jhome.php?jcode=ijcse).
+- \[10/22/2020] Read my [latest work](http://arxiv.org/abs/2010.11711) on *Graph Representation Learning* applied to *Drug-Drug Interaction Prediction*.
+- \[8/25/2020] I started my new life at [Tsinghua Univeristy](https://www.tsinghua.edu.cn/en/).
+- \[6/18/2020] My undergraduate thesis was named *Outstanding Thesis of Tongji University*.
+- \[5/3/2020] I was awarded the title of *Outstanding Graduate of Shanghai City*.
 
 Contact Information
 ------
->***Yingheng WANG*** `jakewyh[AT]tongji.edu.cn`  
-Department of Information and Communication Engineering  
-Tongji University  
-4800 Caoan Road, 201804, Shanghai, China  
+>***Yingheng WANG*** `wangyh20[AT]mails.tsinghua.edu.cn`  
+Department of Electronic Engineering  
+Tsinghua University  
+30 Shuangqing Road, 100084, Beijing, China  
