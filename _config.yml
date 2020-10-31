@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "master" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"  
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -83,7 +83,7 @@ author:
   name             : "Yingheng WANG"
   avatar           : "https://isjakewong.github.io/images/profile.jpg"
   bio              : "Graph mining/Drug discovery/Machine Learning"
-  location         : "Jiading District, Shanghai"
+  location         : "Haidian District, Beijing"
   employer         :
   pubmed           :
   googlescholar    :
