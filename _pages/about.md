@@ -22,5 +22,6 @@ Contact Information
 ------
 >***Yingheng WANG*** `wangyh20[AT]mails.tsinghua.edu.cn`  
 Department of Electronic Engineering  
-Tsinghua University  
-30 Shuangqing Road, 100084, Beijing, China  
+Rohm Building, Tsinghua University  
+30 Shuangqing Road, 100084, Beijing, China
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=3fx-j-D8uMk5_Ti3oKfltrX0xd6PqiLeEZ81k7Os1ug&cmn=fb4100&cmo=ff9f53&ct=ffffff"></script>
