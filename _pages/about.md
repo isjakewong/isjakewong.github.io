@@ -24,5 +24,7 @@ Contact Information
 Department of Electronic Engineering  
 Rohm Building, Tsinghua University  
 30 Shuangqing Road, 100084, Beijing, China
-
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=120&t=tt&d=3fx-j-D8uMk5_Ti3oKfltrX0xd6PqiLeEZ81k7Os1ug"></script>
+<br />
+<br />
+<br />
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=808080&w=300&t=tt&d=3fx-j-D8uMk5_Ti3oKfltrX0xd6PqiLeEZ81k7Os1ug&cmo=ffa953&cmn=cc693a&ct=ffffff&co=06558d"></script>
