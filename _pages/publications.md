@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Selected Publications"
+title: "<big>Selected Publications</big>"
 permalink: /publications/
 author_profile: true
 ---
@@ -8,6 +8,6 @@ author_profile: true
 
 ## Conference and Workshop Papers
 
-* ### Multi-view Graph Contastive Representation Learning for Drug-drug Interaction Prediction  
+* **Multi-view Graph Contrastive Representation Learning for Drug-drug Interaction Prediction** 
     Yingheng Wang, Yaosen Min, Xin Chen, Ji Wu  
     *In Proceedings of The Web Conference 2021 (WWW '21)*
