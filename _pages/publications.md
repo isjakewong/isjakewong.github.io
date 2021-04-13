@@ -6,5 +6,6 @@ author_profile: true
 ---
 `Asterisk marks (*) indicate authors having contributed (almost) equally.`
 
-##Conference and Workshop Papers
-+123
+Conference and Workshop Papers
+=====
+* Multi-view Graph Contastive Representation Learning for Drug-drug Interaction Prediction
