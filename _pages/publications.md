@@ -10,4 +10,4 @@ author_profile: true
 
 #### * Multi-view Graph Contastive Representation Learning for Drug-drug Interaction Prediction
 Yingheng Wang, Yaosen Min, Xin Chen, Ji Wu
-***In Proceedings of The Web Conference 2021 (WWW '21)***
+*In Proceedings of The Web Conference 2021 (WWW '21)*
