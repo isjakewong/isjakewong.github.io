@@ -13,13 +13,10 @@ I am pursuing my master's degrees at Department of Electronic Engineering, Tsing
 
 Recent Updates
 ======
-- \[3/30/2021] Our work on Geometric-ware Graph Attention Networks got accepted by [SSL@WWW2021](https://www.aminer.cn/ssl_www2021).
+- \[3/30/2021] Our work on Geometric-aware Graph Attention Networks got accepted by [SSL@WWW2021](https://www.aminer.cn/ssl_www2021).
 - \[2/9/2021] Our work awarded Best Paper at [DLG-AAAI '21](https://deep-learning-graphs.bitbucket.io/dlg-aaai21/index.html), check the [talk video](https://drive.google.com/file/d/19m0sbL4wgDi32ILyW687EshQe4wJhfuZ/view) here.
 - \[1/17/2021] One paper got accepted by The Web Conference 2021 [(WWW '21)](https://www2021.thewebconf.org/) with an overall acceptance rate of 20.6% (357 / 1,736).
-- \[10/22/2020] Read my [latest work](http://arxiv.org/abs/2010.11711) on *Graph Representation Learning* applied to *Drug Discovery*.
 - \[8/25/2020] I started my new life at [Tsinghua Univeristy](https://www.tsinghua.edu.cn/en/).
-- \[6/18/2020] My undergraduate thesis was named *Outstanding Thesis of Tongji University*.
-- \[5/3/2020] I was awarded the title of *Outstanding Graduate of Shanghai City*.
 
 Contact Information
 ------
