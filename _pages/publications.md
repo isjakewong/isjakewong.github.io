@@ -17,7 +17,7 @@ author_profile: true
 * **<big>Geometric-aware Graph Attention Networks</big>**  
     <big>Zhongyu Huang\*, <u>Yingheng Wang</u>\*, Ji Wu, Chaozhuo Li</big>  
     *<big>Under Review</big>*  
-    [\[Paper\]](https://www.aminer.cn/ssl_www2021) [\[Slides\]](https://drive.google.com/file/d/178YWI5TPhG89an61HGv-WxV6blgWcCQz/view?usp=sharing)  
+    [\[Paper\]](https://drive.google.com/file/d/1YI-kGzf_d5wD83cvxJkqzhxDq19MGIl6/view?usp=sharing) [\[Slides\]](https://drive.google.com/file/d/178YWI5TPhG89an61HGv-WxV6blgWcCQz/view?usp=sharing)  
     A previous version in [SSL@WWW2021](https://www.aminer.cn/ssl_www2021)
     
 * **<big>MolCloze:  A Unified Self-supervised Molecular Structure Pre-training Model for Chemical Property Prediction</big>**  
@@ -30,3 +30,8 @@ author_profile: true
     <big>Ce Li, Tan He, <u>Yingheng Wang</u>, Liguo Zhang, Ruili Liu, Jing Zheng</big>  
     *<big>International Journal of Computational Science and Engineering, 2020 Vol.22 No.1</big>*  
     [\[Paper\]](https://www.inderscience.com/info/inarticle.php?artid=107254)
+    
+# Preprints    
+* **<big>Drug Representation Learning: A Survey</big>**  
+    <big><u>Yingheng Wang</u>, Xin Chen, Yaosen Min, Ji Wu</big>  
+    [\[Paper\]](https://drive.google.com/file/d/1LwHGp3xgnIjghAn2LoC2Nc4gOOOUgMwk/view?usp=sharing)
