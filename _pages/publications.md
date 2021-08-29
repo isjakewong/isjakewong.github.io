@@ -9,7 +9,7 @@ author_profile: true
 # Conference and Workshop Papers
 
 * **<big>Permutation-sensitive Neural Networks Express More on Graph</big>**  
-    <big>Zhongyu Huang\*, <u>Yingheng Wang\*</u>, Huiguang He</big>  
+    <big>Zhongyu Huang\*, <u>Yingheng Wang</u>\*, Huiguang He</big>  
     *<big>Under Review</big>*  
     [\[Paper\]]()
 
@@ -24,7 +24,7 @@ author_profile: true
     [\[Paper\]]()
 
 * **<big>Molecular Graph Contrastive Learning with Parameterized Explainable Augmentations</big>**  
-    <big>Erzhuo Shao\*, Jie Feng\*, </u>Yingheng Wang</u>, Tong Xia, Yong Li</big>  
+    <big>Erzhuo Shao\*, Jie Feng\*, <u>Yingheng Wang</u>, Tong Xia, Yong Li</big>  
     *<big>In Proceedings of 30th ACM International Conference on Information and Knowledge Management (CIKM '21)</big>*  
     [\[Paper\]](https://arxiv.org/abs/2108.06228) [\[Code\]](https://github.com/erzhuoshao/PSRNet-CIKM)
 
