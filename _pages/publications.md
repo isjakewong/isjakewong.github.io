@@ -23,16 +23,10 @@ author_profile: true
     *<big>Under Review</big>*  
     [\[Paper\]]()
 
-* **<big>Molecular Graph Contrastive Learning with Parameterized Explainable Augmentations</big>**  
+* **<big>One-shot Transfer Learning for Population Mapping</big>**  
     <big>Erzhuo Shao\*, Jie Feng\*, <u>Yingheng Wang</u>, Tong Xia, Yong Li</big>  
     *<big>In Proceedings of 30th ACM International Conference on Information and Knowledge Management (CIKM '21)</big>*  
     [\[Paper\]](https://arxiv.org/abs/2108.06228) [\[Code\]](https://github.com/erzhuoshao/PSRNet-CIKM)
-
-* **<big>Multi-view Graph Contrastive Representation Learning for Drug-drug Interaction Prediction</big>**  
-    <big><u>Yingheng Wang</u>, Yaosen Min, Xin Chen, Ji Wu</big>  
-    *<big>In Proceedings of The Web Conference 2021 (WWW '21)</big>*  
-    [\[Paper\]](https://arxiv.org/pdf/2010.11711) [\[Code\]](https://github.com/isjakewong/MIRACLE) [\[Slides\]](https://drive.google.com/file/d/10qI5O1pX7--MvQzxaitmQCk_87ZgI02F/view?usp=sharing) [\[Talk Video\]](https://drive.google.com/file/d/1nEUX035bM45eJTiSh1PG9ESR8u1dD-6N/view?usp=sharing)  
-    A previous version won **Best Paper Award** at [DLG-AAAI'21](https://deep-learning-graphs.bitbucket.io/dlg-aaai21/index.html)
 
 * **<big>Multi-view Graph Contrastive Representation Learning for Drug-drug Interaction Prediction</big>**  
     <big><u>Yingheng Wang</u>, Yaosen Min, Xin Chen, Ji Wu</big>  
