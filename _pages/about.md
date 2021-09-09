@@ -13,11 +13,11 @@ I am pursuing my master's degrees at Department of Electronic Engineering, Tsing
 
 Recent Updates
 ======
+- \[8/30/2021] I started my new life at [Johns Hopkins University](https://www.jhu.edu/).
 - \[8/10/2021] Our work on One-shot Transfer Learning for Population Mapping got accepted by CIKM 2021 with an overall acceptance rate of 21.7% (271/1251).
 - \[3/30/2021] Our work on Geometric-aware Graph Attention Networks got accepted by [SSL@WWW2021](https://www.aminer.cn/ssl_www2021).
 - \[2/9/2021] Our work awarded Best Paper at [DLG-AAAI '21](https://deep-learning-graphs.bitbucket.io/dlg-aaai21/index.html), check the [talk video](https://drive.google.com/file/d/19m0sbL4wgDi32ILyW687EshQe4wJhfuZ/view) here.
 - \[1/17/2021] One paper got accepted by The Web Conference 2021 [(WWW '21)](https://www2021.thewebconf.org/) with an overall acceptance rate of 20.6% (357 / 1,736).
-- \[8/25/2020] I started my new life at [Tsinghua Univeristy](https://www.tsinghua.edu.cn/en/).
 
 Contact Information
 ------
