@@ -41,7 +41,7 @@ author_profile: true
 
 # Journal Papers
 * **<big>Learning Residue-level Structural Embeddings for Protein Structural Neighbor Retrieval</big>**  
-    <big>Yaosen Min, <u>Yingheng Wang</u>, Fusong Ju, Ji Wu, Jianwei Zhu, Bin Shao and Tie-Yan Liu</big>  
+    <big>Yaosen Min, <u>Yingheng Wang</u>, Fusong Ju, Bin Shao, Tie-Yan Liu, Ji Wu and Jianwei Zhu</big>  
     *<big>Under Review</big>*  
     [\[Paper\]]()
 
