@@ -9,13 +9,15 @@ redirect_from:
 ---
 Welcome to my personal homepage!
 
-I am pursuing my master's degrees at Department of Electronic Engineering, Tsinghua University and Department of Biomedical Engineering, Johns Hopkins University. I am now working at [Multimedia Signal and Intelligent Information Processing(MSIIP) Lab](http://speech.tsinghua.edu.cn/en/category/news/), advised by [Prof. Ji WU](http://www.ee.tsinghua.edu.cn/publish/eeen/3784/2010/20101219135614305780920/20101219135614305780920_.html). I have been a visiting student at College of Information Science and Technology, The Pennsylvania State University in the research group of [Prof. Xiang ZHANG](https://faculty.ist.psu.edu/xzz89/) and mentored by his Ph.D. student [Dongsheng LUO](http://personal.psu.edu/dul262/).  I also work with [Dr. Chaozhuo LI](https://scholar.google.com/citations?user=4FeNNKAAAAAJ&hl=zh-CN) at Microsoft Research Asia and [Prof. Sheng Wang](https://homes.cs.washington.edu/~swang/) at University of Washington. My current research interests mainly lie in graph mining, drug discovery, and machine learning.
+I am pursuing my master's degrees at Department of Electronic Engineering, Tsinghua University and Department of Biomedical Engineering, Johns Hopkins University. I am now working at [Multimedia Signal and Intelligent Information Processing(MSIIP) Lab](http://speech.tsinghua.edu.cn/en/category/news/), advised by [Prof. Ji WU](http://www.ee.tsinghua.edu.cn/publish/eeen/3784/2010/20101219135614305780920/20101219135614305780920_.html). I have been a visiting student at College of Information Science and Technology, The Pennsylvania State University in the research group of [Prof. Xiang ZHANG](https://faculty.ist.psu.edu/xzz89/) and mentored by his Ph.D. student [Dongsheng LUO](http://personal.psu.edu/dul262/). I also work with [Prof. Sheng Wang](https://homes.cs.washington.edu/~swang/) at University of Washington, [Dr. Wei Cheng](https://chengw07.github.io/) at NEC Laboratories America and [Dr. Chaozhuo LI](https://scholar.google.com/citations?user=4FeNNKAAAAAJ&hl=zh-CN) at Microsoft Research Asia. My current research interests mainly lie in graph mining, drug discovery, and machine learning.
 
 Recent Updates
 ======
+- \[10/23/2021] Our work *MolCloze: A Unified Cloze-style Self-supervised Molecular Structure Learning Model for Chemical Property Prediction* got accepted by [BHI@BIBM2021](https://www.bhiw.org/BHI2021/).
+- \[10/23/2021] Our work *Molecular Graph Contrastive Learning with Parameterized Explainable Augmentations* got accepted by BIBM 2021 with an overall acceptance rate of 20.0% (146/727).
 - \[8/30/2021] I started my new life at [Johns Hopkins University](https://www.jhu.edu/).
-- \[8/10/2021] Our work on One-shot Transfer Learning for Population Mapping got accepted by CIKM 2021 with an overall acceptance rate of 21.7% (271/1251).
-- \[3/30/2021] Our work on Geometric-aware Graph Attention Networks got accepted by [SSL@WWW2021](https://www.aminer.cn/ssl_www2021).
+- \[8/10/2021] Our work *One-shot Transfer Learning for Population Mapping* got accepted by CIKM 2021 with an overall acceptance rate of 21.7% (271/1251).
+- \[3/30/2021] Our work *Geometric-aware Graph Attention Networks* got accepted by [SSL@WWW2021](https://www.aminer.cn/ssl_www2021).
 - \[2/9/2021] Our work awarded Best Paper at [DLG-AAAI '21](https://deep-learning-graphs.bitbucket.io/dlg-aaai21/index.html), check the [talk video](https://drive.google.com/file/d/19m0sbL4wgDi32ILyW687EshQe4wJhfuZ/view) here.
 - \[1/17/2021] One paper got accepted by The Web Conference 2021 [(WWW '21)](https://www2021.thewebconf.org/) with an overall acceptance rate of 20.6% (357 / 1,736).
 
