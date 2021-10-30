@@ -13,7 +13,7 @@ I am pursuing my master's degrees at Department of Electronic Engineering, Tsing
 
 Recent Updates
 ======
-- \[10/23/2021] Our work *MolCloze: A Unified Cloze-style Self-supervised Molecular Structure Learning Model for Chemical Property Prediction* got accepted by [BHI@BIBM2021](https://www.bhiw.org/BHI2021/).
+- \[10/29/2021] Our work *MolCloze: A Unified Cloze-style Self-supervised Molecular Structure Learning Model for Chemical Property Prediction* got accepted by [BHI@BIBM2021](https://www.bhiw.org/BHI2021/).
 - \[10/23/2021] Our work *Molecular Graph Contrastive Learning with Parameterized Explainable Augmentations* got accepted by BIBM 2021 with an overall acceptance rate of 20.0% (146/727).
 - \[8/30/2021] I started my new life at [Johns Hopkins University](https://www.jhu.edu/).
 - \[8/10/2021] Our work *One-shot Transfer Learning for Population Mapping* got accepted by CIKM 2021 with an overall acceptance rate of 21.7% (271/1251).
