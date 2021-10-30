@@ -6,7 +6,12 @@ author_profile: true
 ---
 `Asterisk marks (*) indicate authors having contributed (almost) equally.`
 
-# Conference and Workshop Papers
+# Conference Papers
+
+* **<big>Information-Aware Time Series Meta-Contrastive Learning</big>**  
+    <big>Dongsheng Luo\*, Wei Cheng\*, <u>Yingheng Wang</u>, Dongkuan Xu, Jingchao Ni, Wenchao Yu, Xuchao Zhang, Yanchi Liu, Haifeng Chen, Xiang Zhang</big>
+    *<big>Under Review</big>*  
+    [\[Paper\]]()
 
 * **<big>Permutation-sensitive Neural Networks Express More on Graph</big>**  
     <big>Zhongyu Huang\*, <u>Yingheng Wang</u>\*, Huiguang He</big>  
@@ -14,13 +19,8 @@ author_profile: true
     [\[Paper\]]()
 
 * **<big>Molecular Graph Contrastive Learning with Parameterized Explainable Augmentations</big>**  
-    <big><u>Yingheng Wang</u>, Yaosen Min, Erzhuo Shao, Ji Wu</big>  
-    *<big>Under Review</big>*  
-    [\[Paper\]]()
-
-* **<big>MolCloze:  A Unified Cloze-style Self-supervised Molecular Structure Learning Model for Chemical Property Prediction</big>**  
-    <big><u>Yingheng Wang</u>, Xin Chen, Yaosen Min, Ji Wu</big>  
-    *<big>Under Review</big>*  
+    <big><u>Yingheng Wang</u>\*, Yaosen Min\*, Erzhuo Shao, Ji Wu</big>  
+    *<big>In Proceedings of The IEEE International Conference on Bioinformatics and Biomedicine 2021 (BIBM '2021)</big>*  
     [\[Paper\]]()
 
 * **<big>One-shot Transfer Learning for Population Mapping</big>**  
@@ -33,15 +33,22 @@ author_profile: true
     *<big>In Proceedings of The Web Conference 2021 (WWW '21)</big>*  
     [\[Paper\]](https://arxiv.org/pdf/2010.11711) [\[Code\]](https://github.com/isjakewong/MIRACLE) [\[Slides\]](https://drive.google.com/file/d/10qI5O1pX7--MvQzxaitmQCk_87ZgI02F/view?usp=sharing) [\[Talk Video\]](https://drive.google.com/file/d/1nEUX035bM45eJTiSh1PG9ESR8u1dD-6N/view?usp=sharing)  
     A previous version won **Best Paper Award** at [DLG-AAAI'21](https://deep-learning-graphs.bitbucket.io/dlg-aaai21/index.html)
-    
+
+# Workshop Papers
+
+* **<big>MolCloze:  A Unified Cloze-style Self-supervised Molecular Structure Learning Model for Chemical Property Prediction</big>**  
+    <big><u>Yingheng Wang</u>\*, Xin Chen\*, Yaosen Min, Ji Wu</big>  
+    *<big>BHI@BIBM2021</big>*  
+    [\[Paper\]]()
+
 * **<big>Geometric-aware Graph Attention Networks</big>**  
     <big>Zhongyu Huang\*, <u>Yingheng Wang</u>\*, Ji Wu, Chaozhuo Li</big>  
-    *<big>The Workshop on Self-Supervised Learning for the Web (SSL@WWW2021)</big>*  
+    *<big>SSL@WWW2021</big>*  
     [\[Paper\]](https://drive.google.com/file/d/1YI-kGzf_d5wD83cvxJkqzhxDq19MGIl6/view?usp=sharing) [\[Slides\]](https://drive.google.com/file/d/178YWI5TPhG89an61HGv-WxV6blgWcCQz/view?usp=sharing)
 
 # Journal Papers
 * **<big>Learning Residue-level Structural Embeddings for Protein Structural Neighbor Retrieval</big>**  
-    <big>Yaosen Min, <u>Yingheng Wang</u>, Fusong Ju, Bin Shao, Tie-Yan Liu, Ji Wu and Jianwei Zhu</big>  
+    <big>Yaosen Min\*, <u>Yingheng Wang</u>\*, Fusong Ju, Bin Shao, Tie-Yan Liu, Ji Wu and Jianwei Zhu</big>  
     *<big>Under Review</big>*  
     [\[Paper\]]()
 
