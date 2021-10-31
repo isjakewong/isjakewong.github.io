@@ -20,7 +20,7 @@ author_profile: true
 
 * **<big>Molecular Graph Contrastive Learning with Parameterized Explainable Augmentations</big>**  
     <big><u>Yingheng Wang</u>\*, Yaosen Min\*, Erzhuo Shao, Ji Wu</big>  
-    *<big>In Proceedings of The IEEE International Conference on Bioinformatics and Biomedicine 2021 (BIBM '2021)</big>*  
+    *<big>In Proceedings of The IEEE International Conference on Bioinformatics and Biomedicine 2021 (BIBM '21)</big>*  
     [\[Paper\]]()
 
 * **<big>One-shot Transfer Learning for Population Mapping</big>**  
