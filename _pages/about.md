@@ -11,6 +11,8 @@ Welcome to my personal homepage!
 
 I am pursuing my master's degrees at Department of Electronic Engineering, Tsinghua University and Department of Biomedical Engineering, Johns Hopkins University. I am now working at [Multimedia Signal and Intelligent Information Processing(MSIIP) Lab](http://speech.tsinghua.edu.cn/en/category/news/), advised by [Prof. Ji WU](http://www.ee.tsinghua.edu.cn/publish/eeen/3784/2010/20101219135614305780920/20101219135614305780920_.html). I have been a visiting student at College of Information Science and Technology, The Pennsylvania State University in the research group of [Prof. Xiang ZHANG](https://faculty.ist.psu.edu/xzz89/) and mentored by his Ph.D. student [Dongsheng LUO](http://personal.psu.edu/dul262/). I also work with [Prof. Sheng Wang](https://homes.cs.washington.edu/~swang/) at University of Washington, [Dr. Wei Cheng](https://chengw07.github.io/) at NEC Laboratories America and [Dr. Chaozhuo LI](https://scholar.google.com/citations?user=4FeNNKAAAAAJ&hl=zh-CN) at Microsoft Research Asia. My current research interests mainly lie in graph mining, drug discovery, and machine learning.
 
+***I will apply for CS/Bioinformatics/BME PhD programs for Fall 2022.*** Feel free to drop me an Email if you are interested in recruiting me!
+
 Recent Updates
 ======
 - \[10/29/2021] Our work *MolCloze: A Unified Cloze-style Self-supervised Molecular Structure Learning Model for Chemical Property Prediction* got accepted by [BHI@BIBM2021](https://www.bhiw.org/BHI2021/).
