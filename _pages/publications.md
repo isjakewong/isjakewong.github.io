@@ -8,11 +8,6 @@ author_profile: true
 
 # Conference Papers
 
-* **<big>Information-Aware Time Series Meta-Contrastive Learning</big>**  
-    <big>Dongsheng Luo\*, Wei Cheng\*, <u>Yingheng Wang</u>, Dongkuan Xu, Jingchao Ni, Wenchao Yu, Xuchao Zhang, Yanchi Liu, Haifeng Chen, Xiang Zhang</big>  
-    *<big>Under Review</big>*  
-    [\[Paper\]]()
-
 * **<big>Permutation-sensitive Neural Networks Express More on Graph</big>**  
     <big>Zhongyu Huang\*, <u>Yingheng Wang</u>\*, Huiguang He</big>  
     *<big>Under Review</big>*  
