@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
->Download [PDF](https://drive.google.com/file/d/1AvwL8hvVcex7o-8XK-QJ8Kr6H5YcEQte/view?usp=sharing) here.
+>If you would like to learn more about me, please check [PDF](https://drive.google.com/file/d/1ucsbwcwmUu8PlBJgMUh7NFhQ6eYMnIsF/view?usp=sharing) here.
