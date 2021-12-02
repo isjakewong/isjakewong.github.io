@@ -16,7 +16,7 @@ author_profile: true
 * **<big>Molecular Graph Contrastive Learning with Parameterized Explainable Augmentations</big>**  
     <big><u>Yingheng Wang</u>\*, Yaosen Min\*, Erzhuo Shao, Ji Wu</big>  
     *<big>In Proceedings of The IEEE International Conference on Bioinformatics and Biomedicine 2021 (BIBM '21)</big>*  
-    [\[Paper\]]()
+    [\[Paper\]](https://drive.google.com/file/d/1ioBPr0l_IGHnOASHLSh9ZYMLkJEy6Y5h/view?usp=sharing)
 
 * **<big>One-shot Transfer Learning for Population Mapping</big>**  
     <big>Erzhuo Shao\*, Jie Feng\*, <u>Yingheng Wang</u>, Tong Xia, Yong Li</big>  
@@ -34,7 +34,7 @@ author_profile: true
 * **<big>MolCloze:  A Unified Cloze-style Self-supervised Molecular Structure Learning Model for Chemical Property Prediction</big>**  
     <big><u>Yingheng Wang</u>\*, Xin Chen\*, Yaosen Min, Ji Wu</big>  
     *<big>BHI@BIBM2021</big>*  
-    [\[Paper\]]()
+    [\[Paper\]](https://drive.google.com/file/d/1lhETeBHqvPkEDPgYwZRsVRKiR6c15pfO/view?usp=sharing)
 
 * **<big>Geometric-aware Graph Attention Networks</big>**  
     <big>Zhongyu Huang\*, <u>Yingheng Wang</u>\*, Ji Wu, Chaozhuo Li</big>  
