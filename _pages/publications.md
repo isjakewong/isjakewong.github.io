@@ -8,6 +8,11 @@ author_profile: true
 
 # Conference Papers
 
+* **<big>Drug Relation Extraction via Multi-omics Information Fusion</big>**  
+    <big><u>Yingheng Wang</u>, Sheng Wang</big>  
+    *<big>Under Review</big>*  
+    [\[Paper\]]()
+
 * **<big>Permutation-sensitive Neural Networks Express More on Graph</big>**  
     <big>Zhongyu Huang\*, <u>Yingheng Wang</u>\*, Huiguang He</big>  
     *<big>Under Review</big>*  
@@ -17,6 +22,11 @@ author_profile: true
     <big><u>Yingheng Wang</u>\*, Yaosen Min\*, Erzhuo Shao, Ji Wu</big>  
     *<big>In Proceedings of The IEEE International Conference on Bioinformatics and Biomedicine 2021 (BIBM '21)</big>*  
     [\[Paper\]](https://www.biorxiv.org/content/10.1101/2021.12.03.471150v1)
+
+* **<big>Time Series Contrastive Learning with Information-Aware Meta-Networks</big>**  
+    <big>D. Luo, W. Cheng, <u>Yingheng Wang</u>, H. Chen, X.Zhang</big>  
+    *<big>Under Review</big>*  
+    [\[Paper\]]()
 
 * **<big>One-shot Transfer Learning for Population Mapping</big>**  
     <big>Erzhuo Shao\*, Jie Feng\*, <u>Yingheng Wang</u>, Tong Xia, Yong Li</big>  
