@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Curriculum Vitae"
-permalink: /cv/
+permalink: https://drive.google.com/file/d/1ucsbwcwmUu8PlBJgMUh7NFhQ6eYMnIsF/view?usp=sharing
 author_profile: true
 redirect_from:
   - /resume
