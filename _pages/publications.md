@@ -49,7 +49,7 @@ author_profile: true
 * **<big>Geometric-aware Graph Attention Networks</big>**  
     <big>Zhongyu Huang\*, <u>Yingheng Wang</u>\*, Ji Wu, Chaozhuo Li</big>  
     *<big>SSL@WWW2021</big>*  
-    [\[Paper\]](https://drive.google.com/file/d/1YI-kGzf_d5wD83cvxJkqzhxDq19MGIl6/view?usp=sharing) [\[Slides\]](https://drive.google.com/file/d/178YWI5TPhG89an61HGv-WxV6blgWcCQz/view?usp=sharing)
+    [\[Paper\]](https://drive.google.com/file/d/1Wxd1x6nYfw7nc0fMF9yREk_GQ1Qeey3U/view?usp=sharing) [\[Slides\]](https://drive.google.com/file/d/178YWI5TPhG89an61HGv-WxV6blgWcCQz/view?usp=sharing)
 
 # Journal Papers
 * **<big>Learning Residue-level Structural Embeddings for Protein Structural Neighbor Retrieval</big>**  
