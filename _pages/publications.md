@@ -16,7 +16,7 @@ author_profile: true
 * **<big>Permutation-sensitive Neural Networks Express More on Graph</big>**  
     <big>Zhongyu Huang\*, <u>Yingheng Wang</u>\*, Huiguang He</big>  
     *<big>Under Review</big>*  
-    [\[Paper\]](https://drive.google.com/file/d/1eLHTmvdkgbNwsuYlFwsFDbdsB4bgjewc/view?usp=sharing)
+    [\[Paper\]]()
 
 * **<big>Time Series Contrastive Learning with Information-Aware Meta-Networks</big>**  
     <big>D. Luo, W. Cheng, <u>Yingheng Wang</u>, H. Chen, X. Zhang</big>  
