@@ -26,9 +26,8 @@ Recent Updates
 Contact Information
 ------
 >***Yingheng WANG*** `wangyh20[AT]mails.tsinghua.edu.cn`  
-Department of Electronic Engineering  
-Rohm Building, Tsinghua University  
-30 Shuangqing Road, 100084, Beijing, China
+Department of Biomedical Engineering, Johns Hopkins University  
+30 W Biddle St, Baltimore, MD, 21201
 
 <br />
 
