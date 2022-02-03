@@ -26,7 +26,7 @@ Recent Updates
 Contact Information
 ------
 >***Yingheng WANG*** `wangyh20[AT]mails.tsinghua.edu.cn`  
-Department of Biomedical Engineering
+Department of Biomedical Engineering  
 Johns Hopkins University  
 30 W Biddle St, Baltimore, MD, 21201
 
