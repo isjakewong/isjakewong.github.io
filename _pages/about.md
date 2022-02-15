@@ -23,6 +23,11 @@ Recent Updates
 - \[2/9/2021] Our work awarded Best Paper at [DLG-AAAI '21](https://deep-learning-graphs.bitbucket.io/dlg-aaai21/index.html), check the [talk video](https://drive.google.com/file/d/19m0sbL4wgDi32ILyW687EshQe4wJhfuZ/view) here.
 - \[1/17/2021] One paper got accepted by The Web Conference 2021 [(WWW '21)](https://www2021.thewebconf.org/) with an overall acceptance rate of 20.6% (357 / 1,736).
 
+**Academic Services**
+======
+- Conference Reviewer: ICML '22, AAAI '22, KDD '21, WWW '21
+- Journal Reviewer: Bioinformatics
+
 Contact Information
 ------
 >***Yingheng WANG*** `wangyh20[AT]mails.tsinghua.edu.cn`  
