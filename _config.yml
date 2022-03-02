@@ -109,13 +109,13 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "https://twitter.com/yingheng_wang"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-
+  dblp             : "https://dblp.org/pid/265/6357.html"
 
 # Reading Files
 include:
