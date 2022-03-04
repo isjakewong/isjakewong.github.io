@@ -8,11 +8,10 @@ author_profile: true
 
 # Conference Papers
 
-* **<big>Drug Relation Extraction via Multi-omics Information Fusion</big>**  
+<!-- * **<big>Drug Relation Extraction via Multi-omics Information Fusion</big>**  
     <big><u>Yingheng Wang</u>, Sheng Wang</big>  
     *<big>Under Review</big>*  
-    [\[Paper\]]()
-
+    [\[Paper\]]() -->
 * **<big>Permutation-sensitive Neural Networks Express More on Graph</big>**  
     <big>Zhongyu Huang\*, <u>Yingheng Wang</u>\*, Huiguang He</big>  
     *<big>Under Review</big>*  
@@ -20,6 +19,11 @@ author_profile: true
 
 * **<big>Time Series Contrastive Learning with Information-Aware Meta-Networks</big>**  
     <big>D. Luo, W. Cheng, <u>Yingheng Wang</u>, H. Chen, X. Zhang</big>  
+    *<big>Under Review</big>*  
+    [\[Paper\]]()
+
+* **<big>Graph Emotion Decoding from Visually Evoked Neural Responses</big>**  
+    <big>Zhongyu Huang, Changde Du, <u>Yingheng Wang</u>, Huiguang He</big>  
     *<big>Under Review</big>*  
     [\[Paper\]]()
 
