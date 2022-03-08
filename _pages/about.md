@@ -25,7 +25,7 @@ Recent Updates
 
 **Academic Services**
 ======
-- Conference Reviewer: ICML '22, AAAI '22, KDD '21, WWW '21
+- Conference Reviewer: ICML '22, KDD'22, AAAI '22, KDD '21, WWW '21
 - Journal Reviewer: Bioinformatics
 
 Contact Information
