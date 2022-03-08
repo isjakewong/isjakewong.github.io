@@ -37,4 +37,4 @@ Johns Hopkins University
 
 <br />
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=3fx-j-D8uMk5_Ti3oKfltrX0xd6PqiLeEZ81k7Os1ug&cmo=fb9d9d&cmn=ff1400&ct=808080&co=ffffff"></script>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=n&d=3fx-j-D8uMk5_Ti3oKfltrX0xd6PqiLeEZ81k7Os1ug&co=ffffff&cmo=fdff00&cmn=ffb400&ct=ffffff"></script>
