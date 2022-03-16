@@ -9,9 +9,10 @@ redirect_from:
 ---
 Welcome to my personal homepage!
 
-I am pursuing my master's degrees at Department of Electronic Engineering, Tsinghua University and Department of Biomedical Engineering, Johns Hopkins University. I am now working at [Multimedia Signal and Intelligent Information Processing(MSIIP) Lab](http://speech.tsinghua.edu.cn/en/category/news/), advised by [Prof. Ji WU](http://www.ee.tsinghua.edu.cn/publish/eeen/3784/2010/20101219135614305780920/20101219135614305780920_.html), and [Neuro Data Lab](https://neurodata.io/), advised by [Prof. Joshua T. Vogelstein](https://jovo.me/). I have also worked with [Prof. Sheng Wang](https://homes.cs.washington.edu/~swang/) at University of Washington, [Dr. Wei Cheng](https://chengw07.github.io/) at NEC Laboratories America, [Prof. Xiang Zhang](https://faculty.ist.psu.edu/xzz89/) at Pennsylvania State University, and [Dr. Chaozhuo Li](https://scholar.google.com/citations?user=4FeNNKAAAAAJ&hl=zh-CN) at Microsoft Research Asia. My current research interests mainly lie in graph mining, drug discovery, brain connectomes, and machine learning.
+I am pursuing my master's degrees at Department of Electronic Engineering, Tsinghua University and Department of Biomedical Engineering, Johns Hopkins University. I am now working at [Multimedia Signal and Intelligent Information Processing(MSIIP) Lab](http://speech.tsinghua.edu.cn/en/category/news/), advised by [Prof. Ji WU](http://www.ee.tsinghua.edu.cn/publish/eeen/3784/2010/20101219135614305780920/20101219135614305780920_.html), and [Neuro Data Lab](https://neurodata.io/), advised by [Prof. Joshua T. Vogelstein](https://jovo.me/). I have also worked with [Prof. Sheng Wang](https://homes.cs.washington.edu/~swang/) at University of Washington, [Dr. Wei Cheng](https://chengw07.github.io/) at NEC Laboratories America, [Prof. Xiang Zhang](https://faculty.ist.psu.edu/xzz89/) at Pennsylvania State University, and [Dr. Chaozhuo Li](https://scholar.google.com/citations?user=4FeNNKAAAAAJ&hl=zh-CN) at Microsoft Research Asia. My current research interest lies in graph mining, drug discovery, brain connectomes, and machine learning.
 
-***I will start my CS PhD journey in Fall 2022!*** Feel free to drop me an Email if you are interested in collaborating with me!
+***I will start my CS PhD journey in Fall 2022!***
+Feel free to drop me an Email if you are interested in collaborating with me!
 
 Recent Updates
 ======
