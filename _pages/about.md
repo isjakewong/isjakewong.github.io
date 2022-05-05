@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an incoming PhD student of Computer Science at Cornell University. I am pursuing my master's degrees in Electronic Engineering at Tsinghua University and Biomedical Engineering at Johns Hopkins University. I also worked at University of Washington, NEC Laboratories America, Microsoft Research Asia, and Pennsylvania State University. My current research interest lies in machine learning for computational biomedicine.
+I am an incoming PhD student of Computer Science at Cornell University. I am pursuing my master's degrees in Electronic Engineering at Tsinghua University and Biomedical Engineering at Johns Hopkins University. My current research interest lies in machine learning for computational biomedicine.
 
 Feel free to drop me an email if you are interested in collaborating with me!
 
