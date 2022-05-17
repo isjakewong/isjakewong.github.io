@@ -6,8 +6,6 @@ author_profile: true
 ---
 `Asterisk marks (*) indicate authors having contributed (almost) equally.`
 
-# Selected Publications
-
 <!-- * **<big>Drug Relation Extraction via Multi-omics Information Fusion</big>**  
     <big><u>Yingheng Wang</u>, Sheng Wang</big>  
     *<big>Under Review</big>*  
