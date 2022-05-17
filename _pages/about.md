@@ -11,7 +11,7 @@ I am an incoming PhD student of Computer Science at Cornell University. I am pur
 
 Feel free to drop me an email if you are interested in collaborating with me!
 
-***Recruitment: [Prof. Sheng Wang](https://homes.cs.washington.edu/~swang/) is currently looking for undergrad/grad visitors in 2022 spring/fall. If you're interested in machine learning for biomedicine, feel free to reach out to him with your CV!***
+*Recruitment: [Prof. Sheng Wang](https://homes.cs.washington.edu/~swang/) is currently looking for undergrad/grad visitors in 2022 spring/fall. If you're interested in machine learning for biomedicine, feel free to reach out to him with your CV!*
 
 ***
 
