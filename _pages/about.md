@@ -16,7 +16,8 @@ Feel free to drop me an email if you are interested in collaborating with me!
 ***
 
 Recent Updates
-======
+
+- \[May.2022] One paper on permutation-sensitive GNNs got accepted by ICML 2022 (1235/5630 = 21.9%).
 - \[May.2022] Honored to be awarded Cornell [Presidential Life Science Fellowship](https://gradschool.cornell.edu/financial-support/fellowships/presidential-life-science-fellowship/).
 
 **Academic Services**
