@@ -14,7 +14,7 @@ author_profile: true
 * **<big>Learning Residue-level Structural Embeddings for Protein Structural Neighbor Retrieval</big>**  
     <big>Yaosen Min\*, <u>Yingheng Wang</u>\*, Fusong Ju, Bin Shao, Tie-Yan Liu, Ji Wu and Jianwei Zhu</big>  
     *<big>Under Review</big>*  
-    [\[Paper\]](https://drive.google.com/file/d/1rGkgceqdXbjOx-CP9MT_hVRyE3OzgVI-/view?usp=sharing)
+    [\[Paper\]]()
 
 * **<big>Time Series Contrastive Learning with Information-Aware Meta-Networks</big>**  
     <big>D. Luo, W. Cheng, <u>Yingheng Wang</u>, H. Chen, X. Zhang</big>  
@@ -34,7 +34,8 @@ author_profile: true
 * **<big>Multi-view Graph Contrastive Representation Learning for Drug-drug Interaction Prediction</big>**  
     <big><u>Yingheng Wang</u>, Yaosen Min, Xin Chen, Ji Wu</big>  
     *<big>WWW 2021</big>*  
-    [\[Paper\]](https://arxiv.org/pdf/2010.11711) [\[Code\]](https://github.com/isjakewong/MIRACLE) [\[Slides\]](https://drive.google.com/file/d/10qI5O1pX7--MvQzxaitmQCk_87ZgI02F/view?usp=sharing) [\[Talk Video\]](https://drive.google.com/file/d/1nEUX035bM45eJTiSh1PG9ESR8u1dD-6N/view?usp=sharing)  
+    [\[Paper\]](https://arxiv.org/pdf/2010.11711) [\[Code\]](https://github.com/isjakewong/MIRACLE) 
+<!--     [\[Slides\]](https://drive.google.com/file/d/10qI5O1pX7--MvQzxaitmQCk_87ZgI02F/view?usp=sharing) [\[Talk Video\]](https://drive.google.com/file/d/1nEUX035bM45eJTiSh1PG9ESR8u1dD-6N/view?usp=sharing)   -->
     A previous version won **Best Paper Award** at [DLG-AAAI'21](https://deep-learning-graphs.bitbucket.io/dlg-aaai21/index.html)
 
 * **<big>Molecular Graph Contrastive Learning with Parameterized Explainable Augmentations</big>**  
@@ -45,7 +46,7 @@ author_profile: true
 * **<big>MolCloze: A Unified Cloze-style Self-supervised Molecular Structure Learning Model for Chemical Property Prediction</big>**  
     <big><u>Yingheng Wang</u>\*, Xin Chen\*, Yaosen Min, Ji Wu</big>  
     *<big>BIBM 2021</big>*  
-    [\[Paper\]](https://drive.google.com/file/d/1lhETeBHqvPkEDPgYwZRsVRKiR6c15pfO/view?usp=sharing)
+    [\[Paper\]](https://ieeexplore.ieee.org/document/9669794)
 
 * **<big>One-shot Transfer Learning for Population Mapping</big>**  
     <big>Erzhuo Shao\*, Jie Feng\*, <u>Yingheng Wang</u>, Tong Xia, Yong Li</big>  
