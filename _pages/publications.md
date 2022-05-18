@@ -33,7 +33,7 @@ author_profile: true
 
 * **<big>Multi-view Graph Contrastive Representation Learning for Drug-drug Interaction Prediction</big>**  
     <big><u>Yingheng Wang</u>, Yaosen Min, Xin Chen, Ji Wu</big>  
-    *<big>WWW 2021</big>*
+    *<big>WWW 2021</big>*  
     [\[Paper\]](https://arxiv.org/pdf/2010.11711) [\[Code\]](https://github.com/isjakewong/MIRACLE)  
     A previous version won **Best Paper Award** at [DLG-AAAI'21](https://deep-learning-graphs.bitbucket.io/dlg-aaai21/index.html)
 
