@@ -1,4 +1,4 @@
-<meta http-equiv="refresh" content="0;url= https://drive.google.com/file/d/1ucsbwcwmUu8PlBJgMUh7NFhQ6eYMnIsF/view?usp=sharing ">
+<!-- <meta http-equiv="refresh" content="0;url= https://drive.google.com/file/d/1ucsbwcwmUu8PlBJgMUh7NFhQ6eYMnIsF/view?usp=sharing "> -->
 <!-- ---
 layout: archive
 title: "Curriculum Vitae"
