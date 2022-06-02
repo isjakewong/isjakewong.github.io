@@ -21,14 +21,14 @@ author_profile: true
     *<big>Under Review</big>*  
     [\[Paper\]]()
 
-* **<big>Graph Emotion Decoding from Visually Evoked Neural Responses</big>**  
-    <big>Zhongyu Huang, Changde Du, <u>Yingheng Wang</u>, Huiguang He</big>  
-    *<big>Under Review</big>*  
-    [\[Paper\]]()
-
 * **<big>Going Deeper into Permutation-sensitive Graph Neural Networks</big>**  
     <big>Zhongyu Huang\*, <u>Yingheng Wang</u>\*, Chaozhuo Li, Huiguang He</big>  
     *<big>ICML 2022</big>*  
+    [\[Paper\]](https://arxiv.org/abs/2205.14368) [\[Code\]](https://github.com/zhongyu1998/PG-GNN)  
+
+* **<big>Graph Emotion Decoding from Visually Evoked Neural Responses</big>**  
+    <big>Zhongyu Huang, Changde Du, <u>Yingheng Wang</u>, Huiguang He</big>  
+    *<big>MICCAI 2022</big>*  
     [\[Paper\]]()
 
 * **<big>Multi-view Graph Contrastive Representation Learning for Drug-drug Interaction Prediction</big>**  
