@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am an incoming PhD student of Computer Science at Cornell University. I am pursuing my master's degrees in Electronic Engineering at Tsinghua University and Biomedical Engineering at Johns Hopkins University. My current research interest lies in machine learning for computational biomedicine.
 
-I am open to collaboration :smiley:!
+I am open to collaboration! :smiley:
 
 *Recruitment: [Prof. Sheng Wang](https://homes.cs.washington.edu/~swang/) is currently looking for undergrad/grad visitors in 2022 spring/fall. If you're interested in machine learning for biomedicine, feel free to reach out to him with your CV!*
 
