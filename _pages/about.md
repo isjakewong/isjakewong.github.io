@@ -17,7 +17,8 @@ I am open to collaboration! 😃
 
 **Recent Updates**
 
-- \[May.2022] One paper on graph emotion decoding got accepted by [MICCAI 2022](https://conferences.miccai.org/2022/en/).
+- \[Jun.2022] Awarded [ICML Participation Grant](https://icml.cc/Conferences/2022/ParticipationGrants).
+- \[Jun.2022] One paper on graph emotion decoding got accepted by [MICCAI 2022](https://conferences.miccai.org/2022/en/).
 - \[May.2022] One paper on permutation-sensitive GNNs got accepted by [ICML 2022](https://icml.cc/Conferences/2022).
 - \[May.2022] Honored to be awarded Cornell [Presidential Life Science Fellowship](https://gradschool.cornell.edu/financial-support/fellowships/presidential-life-science-fellowship/).
 
