@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an incoming PhD student of Computer Science at Cornell University. I recently obtained my master's degrees in Biomedical Engineering at Johns Hopkins University and Electronic Engineering at Tsinghua University. My current research interest lies in machine learning for computational biomedicine.
+I am a PhD student of Computer Science at Cornell University. Previously, I obtained my masters' degrees in Biomedical Engineering at Johns Hopkins University and Electronic Engineering at Tsinghua University. My current research interest lies in machine learning for computational biomedicine.
 
 I am open to collaboration! 😃
 
@@ -17,6 +17,7 @@ I am open to collaboration! 😃
 
 **Recent Updates**
 
+- \[Jul.2022] Won the PTHrP Result Prediction Challenge at AACC 2022 and [presented our work](https://twitter.com/_AACC/status/1546479589022744579) in Chicago.
 - \[Jun.2022] Awarded [ICML Participation Grant](https://icml.cc/Conferences/2022/ParticipationGrants).
 - \[Jun.2022] One paper on graph emotion decoding got accepted by [MICCAI 2022](https://conferences.miccai.org/2022/en/).
 - \[May.2022] One paper on permutation-sensitive GNNs got accepted by [ICML 2022](https://icml.cc/Conferences/2022).
@@ -29,10 +30,11 @@ I am open to collaboration! 😃
 
 Contact Information
 ------
->***Yingheng WANG*** `wangyh20[AT]mails.tsinghua.edu.cn`  
-Department of Biomedical Engineering  
-Johns Hopkins University  
-30 W Biddle St, Baltimore, MD, 21201
+>***Yingheng WANG*** `isjakewong[AT]gmail.com`  
+Department of Computer Science  
+Cornell University  
+Bill and Melinda Gates Hall,  
+Ithaca, NY, 14853
 
 <br />
 
