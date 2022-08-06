@@ -11,8 +11,6 @@ I am a PhD student of Computer Science at Cornell University. Previously, I obta
 
 I am open to collaboration! 😃
 
-*Recruitment: [Prof. Sheng Wang](https://homes.cs.washington.edu/~swang/) is currently looking for undergrad/grad visitors in 2022 spring/fall. If you're interested in machine learning for biomedicine, feel free to reach out to him with your CV!*
-
 ***
 
 **Recent Updates**
