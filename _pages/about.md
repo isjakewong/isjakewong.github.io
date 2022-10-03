@@ -15,7 +15,7 @@ I am open to collaboration! 😃
 
 **Recent Updates**
 
-- \[Jul.2022] We won the championship of the PTHrP Result Prediction Challenge at AACC 2022 and [presented our work](https://twitter.com/_AACC/status/1546479589022744579) in Chicago.
+- \[Jul.2022] We won the championship of the PTHrP Result Prediction Challenge at AACC 2022 and [presented our work](https://www.aacc.org/cln/articles/2022/october/learning-by-doing-in-data-analytics) in [Chicago](https://twitter.com/_AACC/status/1546479589022744579).
 - \[Jun.2022] Awarded [ICML Participation Grant](https://icml.cc/Conferences/2022/ParticipationGrants).
 - \[Jun.2022] One paper on graph emotion decoding got accepted by [MICCAI 2022](https://conferences.miccai.org/2022/en/).
 - \[May.2022] One paper on permutation-sensitive GNNs got accepted by [ICML 2022](https://icml.cc/Conferences/2022).
