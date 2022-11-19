@@ -17,7 +17,7 @@ author_profile: true
     [\[Paper\]]() -->
 
 * **<big>Time Series Contrastive Learning with Information-Aware Augmentations</big>**  
-    <big>Dongsheng Luo, Wei Cheng, <u>Yingheng Wang</u>, Dongkuan Xu, Jingchao Ni, Wenchao Yu, Xuchao Zhang, Yanchi Liu, Yuncong Chen, Haifeng Chen, Xiang Zhang</big> 
+    <big>Dongsheng Luo, Wei Cheng, <u>Yingheng Wang</u>, Dongkuan Xu, Jingchao Ni, Wenchao Yu, Xuchao Zhang, Yanchi Liu, Yuncong Chen, Haifeng Chen, Xiang Zhang</big>    
     *<big>AAAI 2023</big>*  
     [\[Paper\]]()
 
