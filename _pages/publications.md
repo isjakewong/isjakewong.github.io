@@ -10,15 +10,15 @@ author_profile: true
     <big><u>Yingheng Wang</u>, Sheng Wang</big>  
     *<big>Under Review</big>*  
     [\[Paper\]]() -->
-
+<!-- 
 * **<big>Learning Residue-level Structural Embeddings for Protein Structural Neighbor Retrieval</big>**  
     <big>Yaosen Min\*, <u>Yingheng Wang</u>\*, Fusong Ju, Bin Shao, Tie-Yan Liu, Ji Wu and Jianwei Zhu</big>  
     *<big>Under Review</big>*  
-    [\[Paper\]]()
+    [\[Paper\]]() -->
 
-* **<big>Time Series Contrastive Learning with Information-Aware Meta-Networks</big>**  
-    <big>D. Luo, W. Cheng, <u>Yingheng Wang</u>, H. Chen, X. Zhang</big>  
-    *<big>Under Review</big>*  
+* **<big>Time Series Contrastive Learning with Information-Aware Augmentations</big>**  
+    <big>Dongsheng Luo, Wei Cheng, <u>Yingheng Wang</u>, Dongkuan Xu, Jingchao Ni, Wenchao Yu, Xuchao Zhang, Yanchi Liu, Yuncong Chen, Haifeng Chen, Xiang Zhang</big> 
+    *<big>AAAI 2023</big>*  
     [\[Paper\]]()
 
 * **<big>Going Deeper into Permutation-sensitive Graph Neural Networks</big>**  
