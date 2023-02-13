@@ -15,6 +15,7 @@ I am open to collaboration! 😃
 
 **Recent Updates**
 
+- \[Feb.2023] One paper on graph-enhanced emotion neural decoding got accepted by [IEEE TMI](https://www.embs.org/tmi/).
 - \[Nov.2022] One paper on time series contrastive learning got accepted by [AAAI 2023](https://aaai.org/Conferences/AAAI-23/).
 - \[Jul.2022] We won the championship of the PTHrP Result Prediction Challenge at AACC 2022 and [presented our work](https://www.aacc.org/cln/articles/2022/october/learning-by-doing-in-data-analytics) in [Chicago](https://twitter.com/_AACC/status/1546479589022744579).
 - \[Jun.2022] Awarded [ICML Participation Grant](https://icml.cc/Conferences/2022/ParticipationGrants).
@@ -24,7 +25,7 @@ I am open to collaboration! 😃
 
 **Academic Services**
 
-- Conference Reviewer: CVPR'23, NeurIPS'22, ICML'22, KDD'22, AAAI'22, KDD'21
+- Conference Reviewer: ICCV'23, ICML'23, CVPR'23, NeurIPS'22, ICML'22, KDD'22, AAAI'22, KDD'21
 - Journal Reviewer: Bioinformatics, Smart Health, Acta Automatica Sinica
 
 Contact Information
