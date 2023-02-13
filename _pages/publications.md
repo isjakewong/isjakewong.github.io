@@ -16,6 +16,11 @@ author_profile: true
     *<big>Under Review</big>*  
     [\[Paper\]]() -->
 
+* **<big>Graph-Enhanced Emotion Neural Decoding</big>**  
+    <big>Zhongyu Huang, Changde Du, <u>Yingheng Wang</u>, Kaicheng Fu, Huiguang He</big>  
+    *<big>IEEE Transactions on Medical Imaging</big>*  
+    [\[Paper\]]()
+
 * **<big>Time Series Contrastive Learning with Information-Aware Augmentations</big>**  
     <big>Dongsheng Luo, Wei Cheng, <u>Yingheng Wang</u>, Dongkuan Xu, Jingchao Ni, Wenchao Yu, Xuchao Zhang, Yanchi Liu, Yuncong Chen, Haifeng Chen, Xiang Zhang</big>    
     *<big>AAAI 2023</big>*  
@@ -29,7 +34,7 @@ author_profile: true
 * **<big>Graph Emotion Decoding from Visually Evoked Neural Responses</big>**  
     <big>Zhongyu Huang, Changde Du, <u>Yingheng Wang</u>, Huiguang He</big>  
     *<big>MICCAI 2022</big>*  
-    [\[Paper\]]()
+    [\[Paper\]](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_38)
 
 * **<big>Multi-view Graph Contrastive Representation Learning for Drug-drug Interaction Prediction</big>**  
     <big><u>Yingheng Wang</u>, Yaosen Min, Xin Chen, Ji Wu</big>  
