@@ -25,7 +25,7 @@ I am open to collaboration! 😃
 
 **Academic Services**
 
-- Conference Reviewer: ICCV'23, ICML'23, CVPR'23, NeurIPS'22, ICML'22, KDD'22, AAAI'22, KDD'21
+- Conference Reviewer: NeurIPS'23, ICCV'23, ICML'23, CVPR'23, NeurIPS'22, ICML'22, KDD'22, AAAI'22, KDD'21
 - Journal Reviewer: Bioinformatics, Smart Health, Acta Automatica Sinica
 
 Contact Information
