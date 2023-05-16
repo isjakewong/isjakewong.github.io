@@ -17,7 +17,7 @@ author_profile: true
     [\[Paper\]]() -->
 
 * **<big>InfoDiffusion: Representation Learning Using Information Maximizing Diffusion Models</big>**  
-    <big>Yingheng Wang, Yair Schiff, Aaron Gokaslan, Weishen Pan, Fei Wang, Christopher De Sa, Volodymyr Kuleshov  
+    <big><u>Yingheng Wang<u>, Yair Schiff, Aaron Gokaslan, Weishen Pan, Fei Wang, Christopher De Sa, Volodymyr Kuleshov</big>  
     *<big>ICML 2023</big>*  
     [\[Paper\]]() [\[Code\]]()  
 
@@ -29,7 +29,7 @@ author_profile: true
 * **<big>Time Series Contrastive Learning with Information-Aware Augmentations</big>**  
     <big>Dongsheng Luo, Wei Cheng, <u>Yingheng Wang</u>, Dongkuan Xu, Jingchao Ni, Wenchao Yu, Xuchao Zhang, Yanchi Liu, Yuncong Chen, Haifeng Chen, Xiang Zhang</big>    
     *<big>AAAI 2023</big>*  
-    [\[Paper\]]() [\[Code\]]()
+    [\[Paper\]]() [\[Code\]]()  
 
 * **<big>Going Deeper into Permutation-sensitive Graph Neural Networks</big>**  
     <big>Zhongyu Huang\*, <u>Yingheng Wang</u>\*, Chaozhuo Li, Huiguang He</big>  
