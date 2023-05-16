@@ -16,15 +16,20 @@ author_profile: true
     *<big>Under Review</big>*  
     [\[Paper\]]() -->
 
+* **<big>InfoDiffusion: Representation Learning Using Information Maximizing Diffusion Models</big>**  
+    <big>Yingheng Wang, Yair Schiff, Aaron Gokaslan, Weishen Pan, Fei Wang, Christopher De Sa, Volodymyr Kuleshov  
+    *<big>ICML 2023</big>*  
+    [\[Paper\]]() [\[Code\]]()  
+
 * **<big>Graph-Enhanced Emotion Neural Decoding</big>**  
     <big>Zhongyu Huang, Changde Du, <u>Yingheng Wang</u>, Kaicheng Fu, Huiguang He</big>  
     *<big>IEEE Transactions on Medical Imaging</big>*  
-    [\[Paper\]]()
+    [\[Paper\]](https://ieeexplore.ieee.org/document/10047967)
 
 * **<big>Time Series Contrastive Learning with Information-Aware Augmentations</big>**  
     <big>Dongsheng Luo, Wei Cheng, <u>Yingheng Wang</u>, Dongkuan Xu, Jingchao Ni, Wenchao Yu, Xuchao Zhang, Yanchi Liu, Yuncong Chen, Haifeng Chen, Xiang Zhang</big>    
     *<big>AAAI 2023</big>*  
-    [\[Paper\]]()
+    [\[Paper\]]() [\[Code\]]()
 
 * **<big>Going Deeper into Permutation-sensitive Graph Neural Networks</big>**  
     <big>Zhongyu Huang\*, <u>Yingheng Wang</u>\*, Chaozhuo Li, Huiguang He</big>  
