@@ -15,7 +15,7 @@ I am open to collaboration! 😃
 
 **Recent Updates**
 
-- \[Feb.2023] One paper InfoDiffusion got accepted by [ICML 2023](https://icml.cc/).
+- \[Apr.2023] One paper InfoDiffusion got accepted by [ICML 2023](https://icml.cc/).
 - \[Feb.2023] One paper on graph-enhanced emotion neural decoding got accepted by [IEEE TMI](https://www.embs.org/tmi/).
 - \[Nov.2022] One paper on time series contrastive learning got accepted by [AAAI 2023](https://aaai.org/Conferences/AAAI-23/).
 - \[Jul.2022] We won the championship of the PTHrP Result Prediction Challenge at AACC 2022 and [presented our work](https://www.aacc.org/cln/articles/2022/october/learning-by-doing-in-data-analytics) in [Chicago](https://twitter.com/_AACC/status/1546479589022744579).
