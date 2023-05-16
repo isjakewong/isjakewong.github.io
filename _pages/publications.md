@@ -17,7 +17,7 @@ author_profile: true
     [\[Paper\]]() -->
 
 * **<big>InfoDiffusion: Representation Learning Using Information Maximizing Diffusion Models</big>**  
-    <big><u>Yingheng Wang<u>, Yair Schiff, Aaron Gokaslan, Weishen Pan, Fei Wang, Christopher De Sa, Volodymyr Kuleshov</big>  
+    <big><u>Yingheng Wang</u>, Yair Schiff, Aaron Gokaslan, Weishen Pan, Fei Wang, Christopher De Sa, Volodymyr Kuleshov</big>  
     *<big>ICML 2023</big>*  
     [\[Paper\]]() [\[Code\]]()  
 
