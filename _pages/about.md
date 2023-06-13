@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student of Computer Science at Cornell University. Previously, I obtained my masters' degrees in Biomedical Engineering at Johns Hopkins University and Electronic Engineering at Tsinghua University. My current research interest lies in machine learning for computational biomedicine.
+I am a PhD student of Computer Science at Cornell University. Previously, I obtained my masters' degrees in Biomedical Engineering at Johns Hopkins University and Electronic Engineering at Tsinghua University. My current research interest lies in machine learning with its applications in science, health, and sustainability. Specifically, I research probablistic generative modeling, self-supervised learning, graph representation learning, and AI for scientific discovery.
 
 I am open to collaboration! 😃
 
@@ -33,7 +33,7 @@ Contact Information
 >***Yingheng WANG*** `isjakewong[AT]gmail.com`  
 Department of Computer Science,  
 Cornell University,  
-G23 Gates Hall,  
+344 Gates Hall,  
 Ithaca, NY, 14853
 
 <br />
