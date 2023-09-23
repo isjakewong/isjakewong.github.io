@@ -16,10 +16,15 @@ author_profile: true
     *<big>Under Review</big>*  
     [\[Paper\]]() -->
 
+* **<big>M$^2$Hub: Unlocking the Potential of Machine Learning for Materials Discovery</big>**  
+    <big>Yuanqi Du, <u>Yingheng Wang</u>, Yining Huang, Jianan Canal Li, Yanqiao Zhu, Tian Xie, Chenru Duan, John Gregoire, Carla Gomes</big>  
+    *<big>NeurIPS 2023 Dataset and Benchmark</big>*  
+    [\[Paper\]](https://arxiv.org/abs/2307.05378) [\[Code\]]()  
+
 * **<big>InfoDiffusion: Representation Learning Using Information Maximizing Diffusion Models</big>**  
     <big><u>Yingheng Wang</u>, Yair Schiff, Aaron Gokaslan, Weishen Pan, Fei Wang, Christopher De Sa, Volodymyr Kuleshov</big>  
     *<big>ICML 2023</big>*  
-    [\[Paper\]]() [\[Code\]]()  
+    [\[Paper\]](https://arxiv.org/abs/2306.08757) [\[Code\]]()  
 
 * **<big>Graph-Enhanced Emotion Neural Decoding</big>**  
     <big>Zhongyu Huang, Changde Du, <u>Yingheng Wang</u>, Kaicheng Fu, Huiguang He</big>  
