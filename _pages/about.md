@@ -15,7 +15,8 @@ I am open to collaboration! 😃
 
 **Recent Updates**
 
-- \[Apr.2023] One paper M$^2$Hub got accepted by [NeurIPS 2023 Datasets and Benchmarks](https://neurips.cc/).
+- \[Sep.2023] One preprint ModuLoRA has been released on [ArXiV](https://arxiv.org/abs/2309.16119), check it out!
+- \[Sep.2023] One paper M$^2$Hub got accepted by [NeurIPS 2023 Datasets and Benchmarks](https://neurips.cc/).
 - \[Apr.2023] One paper InfoDiffusion got accepted by [ICML 2023](https://icml.cc/).
 - \[Feb.2023] One paper on graph-enhanced emotion neural decoding was accepted by [IEEE TMI](https://www.embs.org/tmi/).
 - \[Nov.2022] One paper on time series contrastive learning got accepted by [AAAI 2023](https://aaai.org/Conferences/AAAI-23/).
@@ -27,7 +28,7 @@ I am open to collaboration! 😃
 **Academic Services**
 
 - Conference Reviewer: ICLR'24, AAAI'24, NeurIPS'23, ICCV'23, ICML'23, CVPR'23, NeurIPS'22, ICML'22, KDD'22, AAAI'22, KDD'21
-- Journal Reviewer: Bioinformatics, Smart Health, Acta Automatica Sinica
+- Journal Reviewer: Bioinformatics, Journal of Biomedical Informatics, Smart Health, Acta Automatica Sinica
 - Workshop Reviewer/PC member: NeurIPS (AI4Science, GenBio, GLFrontiers), KDD (Health Day) 
 
 Contact Information
