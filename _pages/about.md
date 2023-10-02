@@ -15,7 +15,7 @@ I am open to collaboration! 😃
 
 **Recent Updates**
 
-- \[Sep.2023] One preprint ModuLoRA has been released on [ArXiV](https://arxiv.org/abs/2309.16119), check it out!
+- \[Sep.2023] One preprint ModuLoRA has been released on [arXiv](https://arxiv.org/abs/2309.16119), check it out!
 - \[Sep.2023] One paper M$^2$Hub got accepted by [NeurIPS 2023 Datasets and Benchmarks](https://neurips.cc/).
 - \[Apr.2023] One paper InfoDiffusion got accepted by [ICML 2023](https://icml.cc/).
 - \[Feb.2023] One paper on graph-enhanced emotion neural decoding was accepted by [IEEE TMI](https://www.embs.org/tmi/).
