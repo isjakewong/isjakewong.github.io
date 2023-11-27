@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second-year Ph.D. student of Computer Science at Cornell University and a Cornell [Presidential Life Science](https://gradschool.cornell.edu/financial-support/fellowships/presidential-life-science-fellowship/) Fellow. Previously, I obtained my master's degrees in Biomedical Engineering at Johns Hopkins University and Electronic Engineering at Tsinghua University. My current research interest lies in artificial intelligence (AI) with its applications in science, life science, and sustainability. Specifically, I research probabilistic generative modeling, self-supervised learning, graph representation learning, and AI for scientific discovery.
+I am a second-year Ph.D. student of Computer Science at Cornell University and a Cornell [Presidential Life Science](https://gradschool.cornell.edu/financial-support/fellowships/presidential-life-science-fellowship/) Fellow. Previously, I obtained my master's degrees in Biomedical Engineering at Johns Hopkins University and Electronic Engineering at Tsinghua University. My current research interest lies in artificial intelligence (AI) with its applications in science, life science, and sustainability. Specifically, I research graph and geometric learning, probabilistic generative modeling, self-supervised learning, and AI for scientific discovery.
 
 I am open to collaboration! 😃
 
