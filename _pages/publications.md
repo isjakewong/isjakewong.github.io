@@ -22,7 +22,7 @@ author_profile: true
     [\[Paper\]]() [\[Code\]]()  
 
 * **<big>ModuLoRA: Finetuning 2-Bit LLMs on Consumer GPUs by Integrating with Modular Quantizers</big>**  
-    <big>Junjie Yin, Jiahao Dong, <u>Yingheng Wang</u>\*, Christopher De Sa, Volodymyr Kuleshov</big>  
+    <big>Junjie Yin, Jiahao Dong, <u>Yingheng Wang</u>, Christopher De Sa, Volodymyr Kuleshov</big>  
     *<big>Transactions on Machine Learning Research (TMLR)</big>*  
     [\[Paper\]](https://openreview.net/forum?id=r9p9CV52MV) [\[Code\]](https://github.com/kuleshov-group/llmtools)  
     **Featured Certification** (presented at [ICLR 2024](https://openreview.net/forum?id=r9p9CV52MV))
