@@ -15,6 +15,7 @@ I am open to collaboration! 😃
 
 **Recent Updates**
 
+- \[Dec.2023] One paper on building up Graph Transformers for Crystal Materials has been accepted by [AAAI 2024](https://aaai.org/aaai-conference/).
 - \[Nov.2023] One paper on long-range GNNs has been accepted by [IEEE TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34).
 - \[Sep.2023] One preprint ModuLoRA has been released on [arXiv](https://arxiv.org/abs/2309.16119), check it out!
 - \[Sep.2023] One paper M$^2$Hub got accepted by [NeurIPS 2023 Datasets and Benchmarks](https://neurips.cc/).
@@ -27,7 +28,7 @@ I am open to collaboration! 😃
 
 **Academic Services**
 
-- Conference Reviewer: ICLR'24, AAAI'24, NeurIPS'23, ICCV'23, ICML'23, CVPR'23, NeurIPS'22, ICML'22, KDD'22, AAAI'22, KDD'21
+- Conference Reviewer: ICML'24, CVPR'24, ICLR'24, AAAI'24, NeurIPS'23, ICCV'23, ICML'23, CVPR'23, NeurIPS'22, ICML'22, KDD'22, AAAI'22, KDD'21
 - Journal Reviewer: Bioinformatics, Journal of Biomedical Informatics, Smart Health, Acta Automatica Sinica
 - Workshop Reviewer/PC member: NeurIPS (AI4Science, GenBio, GLFrontiers), KDD (Health Day) 
 
