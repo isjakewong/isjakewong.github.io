@@ -16,10 +16,21 @@ author_profile: true
     *<big>Under Review</big>*  
     [\[Paper\]]() -->
 
+* **<big>Conformal Crystal Graph Transformer with Robust Encoding of Periodic Invariance</big>**  
+    <big><u>Yingheng Wang</u>, Shufeng Kong, John Gregoire, Carla Gomes</big>  
+    *<big>AAAI 2024</big>*  
+    [\[Paper\]]() [\[Code\]]()  
+
+* **<big>ModuLoRA: Finetuning 2-Bit LLMs on Consumer GPUs by Integrating with Modular Quantizers</big>**  
+    <big>Junjie Yin, Jiahao Dong, <u>Yingheng Wang</u>\*, Christopher De Sa, Volodymyr Kuleshov</big>  
+    *<big>Transactions on Machine Learning Research (TMLR)</big>*  
+    [\[Paper\]](https://openreview.net/forum?id=r9p9CV52MV) [\[Code\]](https://github.com/kuleshov-group/llmtools)
+    **Featured Certification** (presented at [ICLR 2024](https://openreview.net/forum?id=r9p9CV52MV)
+
 * **<big>M$^2$Hub: Unlocking the Potential of Machine Learning for Materials Discovery</big>**  
     <big>Yuanqi Du\*, <u>Yingheng Wang</u>\*, Yining Huang, Jianan Canal Li, Yanqiao Zhu, Tian Xie, Chenru Duan, John Gregoire, Carla Gomes</big>  
     *<big>NeurIPS 2023 Dataset and Benchmark</big>*  
-    [\[Paper\]](https://arxiv.org/abs/2307.05378) [\[Code\]]()  
+    [\[Paper\]](https://arxiv.org/abs/2307.05378) [\[Code\]](https://github.com/yuanqidu/M2Hub)  
 
 * **<big>InfoDiffusion: Representation Learning Using Information Maximizing Diffusion Models</big>**  
     <big><u>Yingheng Wang</u>, Yair Schiff, Aaron Gokaslan, Weishen Pan, Fei Wang, Christopher De Sa, Volodymyr Kuleshov</big>  
@@ -50,7 +61,7 @@ author_profile: true
     <big><u>Yingheng Wang</u>, Yaosen Min, Xin Chen, Ji Wu</big>  
     *<big>WWW 2021</big>*  
     [\[Paper\]](https://arxiv.org/pdf/2010.11711) [\[Code\]](https://github.com/isjakewong/MIRACLE)  
-    A previous version won **Best Paper Award** at [DLG-AAAI'21](https://deep-learning-graphs.bitbucket.io/dlg-aaai21/index.html)
+    A previous version won **Best Paper Award** at [DLG-AAAI 2021](https://deep-learning-graphs.bitbucket.io/dlg-aaai21/index.html)
 
 * **<big>Molecular Graph Contrastive Learning with Parameterized Explainable Augmentations</big>**  
     <big><u>Yingheng Wang</u>\*, Yaosen Min\*, Erzhuo Shao, Ji Wu</big>  
