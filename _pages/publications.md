@@ -24,8 +24,8 @@ author_profile: true
 * **<big>ModuLoRA: Finetuning 2-Bit LLMs on Consumer GPUs by Integrating with Modular Quantizers</big>**  
     <big>Junjie Yin, Jiahao Dong, <u>Yingheng Wang</u>\*, Christopher De Sa, Volodymyr Kuleshov</big>  
     *<big>Transactions on Machine Learning Research (TMLR)</big>*  
-    [\[Paper\]](https://openreview.net/forum?id=r9p9CV52MV) [\[Code\]](https://github.com/kuleshov-group/llmtools)
-    **Featured Certification** (presented at [ICLR 2024](https://openreview.net/forum?id=r9p9CV52MV)
+    [\[Paper\]](https://openreview.net/forum?id=r9p9CV52MV) [\[Code\]](https://github.com/kuleshov-group/llmtools)  
+    **Featured Certification** (presented at [ICLR 2024](https://openreview.net/forum?id=r9p9CV52MV))
 
 * **<big>M$^2$Hub: Unlocking the Potential of Machine Learning for Materials Discovery</big>**  
     <big>Yuanqi Du\*, <u>Yingheng Wang</u>\*, Yining Huang, Jianan Canal Li, Yanqiao Zhu, Tian Xie, Chenru Duan, John Gregoire, Carla Gomes</big>  
