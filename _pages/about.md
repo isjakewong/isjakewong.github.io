@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Yingheng Wang's Personal Homepage"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
