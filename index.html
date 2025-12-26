@@ -1,207 +1,274 @@
 <!doctype html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="en-US">
   <head>
+    <link rel="stylesheet" href="styles.css">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />-->
-    <script src="https://kit.fontawesome.com/9e758f0e7f.js" crossorigin="anonymous"></script>
-    <script async defer src="https://buttons.github.io/buttons.js"></script>
-    <link rel="shortcut icon" href="image/uh.png">
-
-    <title>Jingchao Ni</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Yingheng Wang</title>
+    <link rel="icon" type="image/png" href="image/C_logo.svg.png" sizes="32x32">
+    <link rel="shortcut icon" type="image/png" href="image/C_logo.svg.png">
   </head>
 
-  <div class="header">
-    <a href="index.html" class="header">Home</a> &nbsp;|&nbsp;
-    <a href="publications.html" class="header">Publications</a> &nbsp;|&nbsp;
-    <a href="teaching.html" class="header">Teaching</a> &nbsp;|&nbsp;
-    <a href="services.html" class="header">Services</a> &nbsp;|&nbsp;
-    <a href="group.html" class="header">D2I Group</a> &nbsp;&nbsp;
-  </div>
-
   <body>
-    <div class="wrapper">
-    <header>
-      <table class="imgtable">
-        <tr>
-          <td>
-            <div>
-              <img class="round" src="image/jni.jpg" height="150" alt="" style="border:10px solid #eeeeee" />
-            </div>
-          </td>
-          <td>
-              <h3>Jingchao Ni</h3><br/>
-              Assistant Professor<br/>
-              <i class="fa-solid fa-house"></i>&nbsp; <a href="https://uh.edu/nsm/computer-science/" target="_blank">Department of Computer Science</a>, <a href="https://uh.edu/" target="_blank">University of Houston</a>,<br/>
-              &nbsp;<i class="fa-solid fa-location-dot"></i>&nbsp; 3551 Cullen Blvd PGH 594, Houston, TX 77204<br/>
-              <i class="fa-solid fa-envelope"></i>&nbsp; jni7 [at] uh [dot] edu | <i class="fa-brands fa-google-scholar"></i> <a href="https://scholar.google.com/citations?user=rH9MTZMAAAAJ&hl=en" target="_blank">Google Scholar</a> | <i class="fa-solid fa-book"></i> <a href="https://dblp.org/pid/151/3208.html" target="_blank">DBLP</a> | <i class="fa-brands fa-linkedin"></i> <a href="https://www.linkedin.com/in/jingchao-ni-930a3871/" target="_blank">LinkedIn</a> | <i class="fa-brands fa-github"></i> <a href="https://github.com/D2I-Group"target="_blank">GitHub</a>
-          </td>
-        </tr>
-      </table>
+    <header class="site-header">
+      <div class="bar">
+        <div class="brand">
+          <!-- Put your Cornell logo file at: image/cornell_logo.png -->
+          <img id="cornell-logo" src="image/cornell_logo.png" alt="Cornell University logo">
+        </div>
+        <nav class="nav" aria-label="Primary">
+          <a href="index.html">Home</a>
+          <a href="publications.html">Publications</a>
+          <!-- Teaching and Group removed -->
+        </nav>
+      </div>
     </header>
 
-    <section>
+    <main class="wrapper">
+      <section class="hero" aria-labelledby="name">
+      
+        <img src="image/profile.jpg" alt="Portrait of Yingheng Wang" class="avatar" onerror="this.style.display='none'">
 
-    <h2 id="header-3">Short Bio</h2>
+        <div class="hero-content">
+          <h1 id="name">Yingheng Wang</h1>
+          <div class="kicker">PhD Candidate, Computer Science &middot; Cornell University</div>
 
-    <p>I am an Assistant Professor in the <a href="https://uh.edu/nsm/computer-science/" target="_blank">Department of Computer Science</a> at the <a href="https://uh.edu/" target="_blank">University of Houston</a>. Prior to this, I was a researcher at the <a href="http://www.nec-labs.com/research-departments/data-science-systems-research/data-science-systems-research-home" target="_blank">Data Science Department</a> of <a href="http://www.nec-labs.com/" target="_blank">NEC Labs</a> from 2018 to 2022 and the <a href="https://aws.amazon.com/machine-learning/" target="_blank">AWS AI Labs</a> from 2022 to 2024. I received my Ph.D. degree from <a href="https://ist.psu.edu/" target="_blank">College of IST</a>, <a href="http://www.psu.edu/" target="_blank">The Pennsylvania State University</a> in 2018, advised by <a href="https://faculty.ist.psu.edu/xzz89/" target="_blank">Prof. Xiang Zhang</a>. My research is centered around machine learning, data mining, and artificial intelligence, with a focus on time series analysis through cross-modal learning, multimodal integration, and LLM reasoning. My research has been extended to applications in healthcare (including personalized healthcare, press coverage: <a href="https://sj.jst.go.jp/news/202302/n0227-01k.html" target="_blank">Science Japan</a>, <a href="https://www.keguanjp.com/kgjp_keji/kgjp_kj_ict/pt20230202000002.html" target="_blank">KeguanJP</a>), biomedicine, cyber-physical systems, and AIOps (<em>e.g.</em>, deployed in <a href="https://arxiv.org/html/2401.10338v2" target="_blank">AWS cloud systems</a>), and published in refereed conferences (<em>e.g.</em>, ICLR, ICML, NeurIPS, ACL, AAAI, CVPR, KDD, WWW) and journals (<em>e.g.</em>, IEEE TKDE, ACM TKDD), with more than 20 patents filed or granted.</p>
+          <div class="link-row" aria-label="Contact and links">
+            <a class="chip" href="mailto:yingheng@cs.cornell.edu" aria-label="Email">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M4 4h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2z"/>
+                <path d="m22 6-10 7L2 6"/>
+              </svg>
+              <span>yingheng [AT] cs.cornell.edu</span>
+            </a>
 
-    <h2 id="header-3">Research Interests</h2>
-    <ul>
-      <li>
-        <b>Machine learning</b>: time series analysis with LVMs/LLMs/LMMs; agentic AI; generative models; anomaly/OOD analysis; graph learning
-      </li>
-      <li>
-        <b>Data science</b>: AI for science (<em>e.g.</em>, neuroscience, geoscience), AI for social good (<em>e.g.</em>, healthcare, cyber-physical systems, AIOps)
-      </li>
-    </ul>
+            <a class="chip" href="https://github.com/isjakewong" target="_blank" rel="noopener" aria-label="GitHub">
+              <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                <path d="M12 .5a12 12 0 0 0-3.79 23.4c.6.11.82-.26.82-.58v-2.02c-3.34.73-4.04-1.6-4.04-1.6-.55-1.4-1.33-1.77-1.33-1.77-1.09-.75.08-.73.08-.73 1.2.09 1.84 1.24 1.84 1.24 1.07 1.83 2.82 1.3 3.5.99.11-.78.42-1.3.77-1.6-2.67-.31-5.48-1.34-5.48-5.98 0-1.32.47-2.39 1.24-3.23-.12-.31-.54-1.56.12-3.25 0 0 1.01-.32 3.3 1.23a11.5 11.5 0 0 1 6 0c2.28-1.55 3.3-1.23 3.3-1.23.66 1.69.24 2.94.12 3.25.77.84 1.24 1.91 1.24 3.23 0 4.65-2.81 5.66-5.49 5.97.43.37.81 1.1.81 2.22v3.29c0 .32.22.7.82.58A12 12 0 0 0 12 .5z"/>
+              </svg>
+              <span>GitHub</span>
+            </a>
 
-    <h2 id="header-3">News</h2>
+            <a class="chip" href="https://scholar.google.com/citations?user=1V8LxbYAAAAJ" target="_blank" rel="noopener" aria-label="Google Scholar">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M22 10 12 5 2 10l10 5 10-5z"/>
+                <path d="M6 12v5c3 2 9 2 12 0v-5"/>
+              </svg>
+              <span>Google Scholar</span>
+            </a>
 
-    <!--<p><span style="color:#D3123B"><b>I will join the <a href="https://www.uh.edu/nsm/computer-science/" class="red" target="_blank">Department of Computer Science</a> at the <a href="https://www.uh.edu/" class="red" target="_blank">University of Houston</a> as an Assistant Professor in the Fall semester of 2024.</b></span></p>-->
-    <!--<p><span style="color:#D3123B"><b>[Prospective Students]</b> I am looking for self-motivated Ph.D. students to work together on machine learning and data science research. There are multiple fully funded RA/TA positions in my group starting from Spring 2025. If you are interested, please drop me an email at jni7 [at] uh [dot] edu with your CV/resume, transcripts and any materials that you think are helpful.</span></p><br/>-->
-    <!--<div class="listbox">
-      <ul>
-        <li>12/2024: Serve NSF panelist</li>
-        <li>11/2024: Preprint <a href="https://arxiv.org/pdf/2410.12657" target="_blank">Explanation-Preserving Augmentation for Graph Representation Learning</a> is available</li>
-        <li>10/2024: Serve NSF panelist</li>
-      </ul>
-    </div>-->
-    <p><span style="color:#D3123B"><b>[Prospective Students]</b> I am looking for self-motivated Ph.D. students to join my group in Fall 2026. If you are interested, please drop me an email at jni7 [at] uh [dot] edu with your CV/resume, transcripts and any materials that you think are helpful.</span></p>
-    <iframe src="news.html", width="100%", height=190px, style="border:none;"></iframe>
+            <a class="chip" href="https://www.linkedin.com/in/yingheng-w-7b8066171/" target="_blank" rel="noopener" aria-label="LinkedIn">
+              <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                <path d="M4.98 3.5C4.98 4.88 3.86 6 2.5 6S0 4.88 0 3.5 1.12 1 2.5 1s2.48 1.12 2.48 2.5zM.5 8.5h4V24h-4V8.5zM8.5 8.5h3.8v2.1h.05c.53-1 1.83-2.1 3.77-2.1 4.03 0 4.78 2.65 4.78 6.1V24h-4v-6.9c0-1.65-.03-3.77-2.3-3.77-2.3 0-2.65 1.8-2.65 3.65V24h-4V8.5z"/>
+              </svg>
+              <span>LinkedIn</span>
+            </a>
+          </div>
+        </div>
+      </section>
 
-    <h2 id="header-3">Selected Publications</h2>
+      <section aria-labelledby="bio">
+        <h2 id="bio">About</h2>
+        <p>
+          I am a 4th-year PhD candidate in Computer Science at Cornell University, advised by 
+          <a href="http://www.cs.cornell.edu/gomes/" target="_blank" rel="noopener noreferrer">Carla P. Gomes</a>. I also work closely with 
+          <a href="https://www.cs.cornell.edu/~kuleshov/" target="_blank" rel="noopener noreferrer">Volodymyr Kuleshov</a> and 
+          <a href="https://www.cs.cornell.edu/~cdesa/" target="_blank" rel="noopener noreferrer">Christopher De Sa</a>.
+          My research studies <strong>knowledge-driven AI with its applications to scientific discovery</strong>.
+          I was also student researcher at
+          <a href="https://www.theverge.com/2018/6/5/17431012/amazon-grand-challenge-moonshot-lab-google-glass-creator-babak-parviz" target="_blank" rel="noopener noreferrer">Amazon Grand Challenge</a>, 
+          <a href="https://aws.amazon.com/ai/" target="_blank" rel="noopener noreferrer">AWS AI Lab</a>, 
+          <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/?msockid=3878bc547c056f933bdfaa947d2b6e60" target="_blank" rel="noopener noreferrer">Microsoft Research</a>, and
+          <a href="https://www.nec-labs.com" target="_blank" rel="noopener noreferrer">NEC Lab America</a>, 
+          where my research led to impactful papers and patents on computational antibody design, protein language models, time-series foundation models, and theoretical graph learning.
+        </p>
+      </section>
 
-    <p><i class="fa-solid fa-list"></i> <a href="publications.html">Full List</a> | <i class="fa-brands fa-google-scholar"></i> <a href="https://scholar.google.com/citations?user=rH9MTZMAAAAJ&hl=en" target="_blank">Google Scholar</a> | <i class="fa-solid fa-book"></i> <a href="https://dblp.org/pid/151/3208.html" target="_blank">DBLP</a></p>
-    <p><sup>&#x266E;</sup> indicates equal contribution, <sup>&#x2605;</sup> indicates students / interns I have advised.</p>
+      <section aria-labelledby="interests">
+        <h2 id="interests">Research Interests</h2>
+        <p>
+        My research centers on developing knowledge-driven AI methods that integrate physical and domain knowledge into modern machine learning techniques to improve their efficacy, efficiency, robustness, and interpretability. Current research topics include:
+        <ul>
+          <li><strong>Learning with physical knowledge</strong>: constrained learning <a href="#" style="padding:2px 8px; background:#e0e0e0; color:#B31B1B; font-size:0.8em; border-radius:4px; text-decoration:none;">Nature Computational Science</a>, 
+            symmetry learning <a href="#" style="padding:2px 8px; background:#e0e0e0; color:#B31B1B; font-size:0.8em; border-radius:4px; text-decoration:none;">AAAI24</a>, 
+            disentangled representations <a href="#" style="padding:2px 8px; background:#e0e0e0; color:#B31B1B; font-size:0.8em; border-radius:4px; text-decoration:none;">ICML23</a></li>
+          <li><strong>Learning under limited resources</strong>: self-supervised &amp; unsupervised learning <a href="#" style="padding:2px 8px; background:#e0e0e0; color:#B31B1B; font-size:0.8em; border-radius:4px; text-decoration:none;">AAAI23</a> <a href="#" style="padding:2px 8px; background:#e0e0e0; color:#B31B1B; font-size:0.8em; border-radius:4px; text-decoration:none;">TheWebConf</a>, multi-modal learning <a href="#" style="padding:2px 8px; background:#e0e0e0; color:#B31B1B; font-size:0.8em; border-radius:4px; text-decoration:none;">ICLR25 AI4Mat</a>
+            expressive and efficient neural networks <a href="#" style="padding:2px 8px; background:#e0e0e0; color:#B31B1B; font-size:0.8em; border-radius:4px; text-decoration:none;">TMLR24</a> <a href="#" style="padding:2px 8px; background:#e0e0e0; color:#B31B1B; font-size:0.8em; border-radius:4px; text-decoration:none;">NeurIPS23</a> <a href="#" style="padding:2px 8px; background:#e0e0e0; color:#B31B1B; font-size:0.8em; border-radius:4px; text-decoration:none;">ICML22</a></li>
+          <li><strong>Reasoning &amp; inference with learning</strong>: reinforcement learning <a href="#" style="padding:2px 8px; background:#e0e0e0; color:#B31B1B; font-size:0.8em; border-radius:4px; text-decoration:none;">ICLR26</a> <a href="#" style="padding:2px 8px; background:#e0e0e0; color:#B31B1B; font-size:0.8em; border-radius:4px; text-decoration:none;">ICLR26</a>, 
+            constrained reasoning <a href="#" style="padding:2px 8px; background:#e0e0e0; color:#B31B1B; font-size:0.8em; border-radius:4px; text-decoration:none;">NeurIPS25 MATH-AI</a> <a href="#" style="padding:2px 8px; background:#e0e0e0; color:#B31B1B; font-size:0.8em; border-radius:4px; text-decoration:none;">AAAI26</a> <a href="#" style="padding:2px 8px; background:#e0e0e0; color:#B31B1B; font-size:0.8em; border-radius:4px; text-decoration:none;">AAAI26</a>, 
+            probabilistic inference <a href="#" style="padding:2px 8px; background:#e0e0e0; color:#B31B1B; font-size:0.8em; border-radius:4px; text-decoration:none;">AAAI25</a></li>
+          <li><strong>Generative AI</strong>: large language models <a href="#" style="padding:2px 8px; background:#e0e0e0; color:#B31B1B; font-size:0.8em; border-radius:4px; text-decoration:none;">TMLR24</a> <a href="#" style="padding:2px 8px; background:#e0e0e0; color:#B31B1B; font-size:0.8em; border-radius:4px; text-decoration:none;">NeurIPS25 AI4Mat</a>, diffusion &amp; flow-based models <a href="#" style="padding:2px 8px; background:#e0e0e0; color:#B31B1B; font-size:0.8em; border-radius:4px; text-decoration:none;">ICML23</a> <a href="#" style="padding:2px 8px; background:#e0e0e0; color:#B31B1B; font-size:0.8em; border-radius:4px; text-decoration:none;">AAAI25</a> <a href="#" style="padding:2px 8px; background:#e0e0e0; color:#B31B1B; font-size:0.8em; border-radius:4px; text-decoration:none;">ICCV25 CV4MS</a>, generative agents <a href="#" style="padding:2px 8px; background:#e0e0e0; color:#B31B1B; font-size:0.8em; border-radius:4px; text-decoration:none;">ICLR26</a></li>
+          <li><strong>Applications</strong>: scientific discovery (biology, materials, medicine, and sustainability)</li>
+          <li><strong>Taxonomy & Datasets & Benchmarks</strong>: genrative molecule design <a href="#" style="padding:2px 8px; background:#e0e0e0; color:#B31B1B; font-size:0.8em; border-radius:4px; text-decoration:none;">Nature Machine Intelligence</a>, machine learning for materials discovery <a href="#" style="padding:2px 8px; background:#e0e0e0; color:#B31B1B; font-size:0.8em; border-radius:4px; text-decoration:none;">NeurIPS23</a>, structured data augmentation <a href="#" style="padding:2px 8px; background:#e0e0e0; color:#B31B1B; font-size:0.8em; border-radius:4px; text-decoration:none;">IEEE Data Engineering Bulletin</a></li>
+        </ul>
+        These thrusts converge to build AI systems that can reason, learn efficiently, and generalize robustly in complex real-world scenarios, ultimately advancing scientific discovery and innovation. 
+      </p>
+      </section>
 
-    <ul>
-      <li>
-        <a href="https://arxiv.org/abs/2505.24003" target="_blank">Multi-Modal View Enhanced Large Vision Models for Long-Term Time Series Forecasting</a><br/>
-        <l>ChengAo Shen<sup>&#x2605;</sup>, Wenchao Yu, Ziming Zhao<sup>&#x2605;</sup>, Dongjin Song, Wei Cheng, Haifeng Chen, <b>Jingchao Ni</b><br/>
-        Proceedings of the Conference on Neural Information Processing Systems (<b>NeurIPS</b>), 2025</l><br/>
-        <div class="github-button-wrapper"><a class="github-button" href="https://github.com/D2I-Group/dmmv" data-color-scheme="no-preference: light; light: light; dark: light;">Github</a></div>
-      </li>
-      <br/>
-      <li>
-        <a href="https://www.arxiv.org/abs/2502.08869" target="_blank">Harnessing Vision Models for Time Series Analysis: A Survey</a><br/>
-        <l><b>Jingchao Ni</b>, Ziming Zhao<sup>&#x2605;</sup>, ChengAo Shen<sup>&#x2605;</sup>, Hanghang Tong, Dongjin Song, Wei Cheng, Dongsheng Luo, Haifeng Chen<br/>
-        Proceedings of the International Joint Conferences on Artificial Intelligence (<b>IJCAI</b>), 2025</l><br/>
-        <div class="github-button-wrapper"><a class="github-button" href="https://github.com/D2I-Group/awesome-vision-time-series" data-color-scheme="no-preference: light; light: light; dark: light;" aria-label="Star D2I-Group/awesome-vision-time-series on GitHub">Github</a></div>
-      </li>
-      <br/>
-      <li>
-        <a href="https://arxiv.org/abs/2503.13709" target="_blank">Multi-modal Time Series Analysis: A Tutorial and Survey</a><br/>
-        <l>Yushan Jiang, Kanghui Ning, Zijie Pan, Xuyang Shen, <b>Jingchao Ni</b>, Wenchao Yu, Anderson Schneider, Haifeng Chen, Yuriy Nevmyvaka, Dongjin Song<br/>
-        Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<b>KDD</b>), 2025</l><br/>
-        <div class="github-button-wrapper"><a class="github-button" href="https://github.com/UConn-DSIS/Multi-modal-Time-Series-Analysis" data-color-scheme="no-preference: light; light: light; dark: light;">Github</a></div> [<a href="https://uconn-dsis.github.io/MMTSA_tutorial/" target="_blank">website</a>]
-      </li>
-      <br/>
-      <li>
-        <a href="https://arxiv.org/abs/2412.13667" target="_blank">Exploring Multi-Modal Data with Tool-Augmented LLM Agents for Precise Causal Discovery</a><br/>
-        <l>ChengAo Shen<sup>&#x2605;</sup>, Zhengzhang Chen, Dongsheng Luo, Dongkuan Xu, Haifeng Chen, <b>Jingchao Ni</b><br/>
-        Proceedings of the Annual Meeting of the Association for Computational Linguistics (<b>ACL Findings</b>), 2025</l><br/>
-        <div class="github-button-wrapper"><a class="github-button" href="https://github.com/D2I-Group/matmcd" data-color-scheme="no-preference: light; light: light; dark: light;">Github</a></div>
-      </li>
-      <br/>
-      <li>
-        <a href="https://arxiv.org/pdf/2402.02036" target="_blank">Interpreting Graph Neural Networks with In-Distributed Proxies</a><br/>
-        <l>Zhuomin Chen, Jiaxing Zhang, <b>Jingchao Ni</b>, Xiaoting Li, Yuchen Bian, Md Mezbahul Islam, Ananda Mohan Mondal, Hua Wei, Dongsheng Luo<br/>
-        Proceedings of the International Conference on Machine Learning (<b>ICML</b>), 2024<br/>
-        Truestworthy Learning on Graphs Workshop at the Web Conference (<b>TrustLOG @ WWW</b>), 2024 [<a href="paper/trustlogwww24_proxyexplainer.pdf" target="_blank">pdf</a>]</l><br/>
-        <div class="github-button-wrapper"><a class="github-button" href="https://github.com/realMoana/ProxyExplainer" data-color-scheme="no-preference: light; light: light; dark: light;">Github</a></div>
-      </li>
-      <br/>
-      <li>
-        <a href="paper/neurips2023_htgm.pdf" target="_blank">Hierarchical Gaussian Mixture based Task Generative Model for Robust Meta-Learning</a><br/>
-        <l>Yizhou Zhang<sup>&#x2605;</sup>, <b>Jingchao Ni</b>, Wei Cheng, Zhengzhang Chen, Liang Tong, Haifeng Chen, Yan Liu<br/>
-        Proceedings of the Conference on Neural Information Processing Systems (<b>NeurIPS</b>), 2023</l><br/>
-      </li>
-      <br/>
-      <li>
-        <a href="paper/iclr22_scgm.pdf" target="_blank">Superclass-Conditional Gaussian Mixture Model for Learning Fine-Grained Embeddings</a><br/>
-        <l><b>Jingchao Ni</b>, Wei Cheng, Zhengzhang Chen, Takayoshi Asakura, Tomoya Soma, Sho Kato, Haifeng Chen<br/>
-        The International Conference on Learning Representations (<b>ICLR</b>), 2022</l><br/>
-        (<span style="color:#D3123B">Spotlight Presentation, 5%</span>)<br/>
-        <div class="github-button-wrapper"><a class="github-button" href="https://github.com/nijingchao/SCGM" data-color-scheme="no-preference: light; light: light; dark: light;">Github</a></div>
-      </li>
-      <br/>
-      <li>
-        <a href="paper/cvpr21_facesec.pdf" target="_blank">FACESEC: A Fine-Grained Robustness Evaluation Framework for Face Recognition Systems</a><br/>
-        <l>Liang Tong, Zhengzhang Chen, <b>Jingchao Ni</b>, Wei Cheng, Dongjin Song, Haifeng Chen, Yevgeniy Vorobeychik<br/>
-        Proceedings of the Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2021</l><br/>
-        <div class="github-button-wrapper"><a class="github-button" href="https://github.com/shinington/facesec" data-color-scheme="no-preference: light; light: light; dark: light;">Github</a></div> [<a href="https://arxiv.org/abs/2104.04107" target="_blank">arXiv</a>] [<a href="paper/cvpr21_facesec_suppl.pdf" target="_blank">suppl</a>]
-      </li>
-      <br/>
-      <li>
-        <a href="paper/aaai21_dgm2.pdf" target="_blank">Dynamic Gaussian Mixture based Deep Generative Model for Robust Forecasting on Sparse Multivariate Time Series</a><br/>
-        <l>Yinjun Wu<sup>&#x2605;</sup>, <b>Jingchao Ni</b>, Wei Cheng, Bo Zong, Dongjin Song, Zhengzhang Chen, Yanchi Liu, Xuchao Zhang, Haifeng Chen, Susan Davidson<br/>
-        Proceedings of the AAAI International Conference on Artificial Intelligence (<b>AAAI</b>), 2021</l><br/>
-        <div class="github-button-wrapper"><a class="github-button" href="https://github.com/thuwuyinjun/DGM2" data-color-scheme="no-preference: light; light: light; dark: light;">Github</a></div> [<a href="https://arxiv.org/abs/2103.02164" target="_blank">arXiv</a>]
-      </li>
-      <br/>
-      <li>
-        <a href="paper/icml20_neuralsparse.pdf" target="_blank">Robust Graph Representation Learning via Neural Sparsification</a><br/>
-        <l>Cheng Zheng, Bo Zong, Wei Cheng, Dongjin Song, <b>Jingchao Ni</b>, Wenchao Yu, Haifeng Chen, Wei Wang<br/>
-        Proceedings of the International Conference on Machine Learning (<b>ICML</b>), 2020</l><br/>
-        [<a href="paper/icml20_neuralsparse_suppl.pdf" target="_blank">suppl</a>]
-      </li>
-      <br/>
-      <li>
-        <a href="paper/iclr20_seed.pdf" target="_blank">Inductive and Unsupervised Representation Learning on Graph Structured Objects</a><br/>
-        <l>Lichen Wang, Bo Zong, Qianqian Ma, Wei Cheng, <b>Jingchao Ni</b>, Wenchao Yu, Yanchi Liu, Dongjin Song, Haifeng Chen, Yun Fu<br/>
-        The International Conference on Learning Representations (<b>ICLR</b>), 2020</l>
-      </li>
-      <br/>
-      <li>
-        <a href="paper/aaai20_ahn.pdf" target="_blank">Asymmetrical Hierarchical Networks with Attentive Interactions for Interpretable Review-based Recommendation</a><br/>
-        <l>Xin Dong<sup>&#x2605;</sup>, <b>Jingchao Ni</b>, Wei Cheng, Zhengzhang Chen, Bo Zong, Dongjin Song, Yanchi Liu, Haifeng Chen, Gerard de Melo<br/>
-        Proceedings of the AAAI International Conference on Artificial Intelligence (<b>AAAI</b>), 2020</l><br/>
-        [<a href="https://arxiv.org/abs/2001.04346" target="_blank">arXiv</a>]
-      </li>
-      <br/>
-      <li>
-        <a href="paper/aaai19_mscred.pdf" target="_blank">A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data</a><br/>
-        <l>C. Zhang, D. Song, Y. Chen, X. Feng, C. Lumezanu, W. Cheng, <b>Jingchao Ni</b>, B. Zong, H. Chen, N. Chawla<br/>
-        Proceedings of the AAAI International Conference on Artificial Intelligence (<b>AAAI</b>), 2019</l><br/>
-        [<a href="https://arxiv.org/abs/1811.08055" target="_blank">arXiv</a>] (<span style="color:#D3123B">Most Influential Papers of AAAI 2019 by</span> <a class="red" href="https://www.paperdigest.org/2024/05/most-influential-aaai-papers-2024-05/" target="_blank">PaperDigest</a>)
-      </li>
-      <br/>
-    </ul>
+      <section aria-labelledby="highlights">
+        <h2 id="highlights">Selected Publications</h2>
+        <div class="cards">
 
-    <!--<h2 id="header-3">Honors and Awards</h2>
+        <article class="paper-card">
+        <h3 class="paper-title">
+          Physics-informed Density of States Prediction with Structure-Aware Sequence Decoding and Mass-Conserving Refinement
+        </h3>
 
-    <ul>
-      <li>
-        Best Paper Award Finalist, ICDM, 2017
-      </li>
-      <li>
-        IEEE ICDM Student Travel Award, 2017
-      </li>
-      <li>
-        IST Graduate Student Travel Award, 2017
-      </li>
-      <li>
-        ACM SIGKDD Student Travel Award, 2015
-      </li>
-      <li>
-        National Scholarship, China, 2010
-      </li>
-      <li>
-        National Scholarship, China, 2009
-      </li>
-    </ul>-->
+        <p class="paper-authors">
+          <strong>Yingheng Wang</strong>, Francesco Ricci, Tao Yu, Junwen Bai, 
+          Shufeng Kong, John M. Gregoire, Carla P. Gomes
+        </p>
 
-    </section>
-    </div>
+        <p class="paper-venue">
+          <em>Nature Computational Science</em>
+          <em>(Under Review)</em>
+        </p>
+
+        <div class="paper-links">
+          <a href="PAPER_URL_HERE" target="_blank" rel="noopener">
+            📄 Paper
+          </a>
+          <a href="CODE_URL_HERE" target="_blank" rel="noopener">
+            🌐 Code
+          </a>
+        </div>
+        </article>
+
+        <article class="paper-card">
+        <h3 class="paper-title">
+          Iterative Multi-Objective Policy Optimization for Antibody Sequence Design
+        </h3>
+
+        <p class="paper-authors">
+          <strong>Yingheng Wang</strong>, Can Chen, Karla-Luise Herpoldt, Sukanya Sasmal, 
+          Tommi Jaakkola, Marcus D. Collins, Shang Shang
+        </p>
+
+        <p class="paper-venue">
+          <em>ICLR 2026</em>
+          <em>(Under Review)</em>
+        </p>
+
+        <div class="paper-links">
+          <a href="PAPER_URL_HERE" target="_blank" rel="noopener">
+            📄 Paper
+          </a>
+          <a href="CODE_URL_HERE" target="_blank" rel="noopener">
+            🌐 Code
+          </a>
+        </div>
+      </article>
+
+        <article class="paper-card">
+      <h3 class="paper-title">
+        HeuriGym: An Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization
+      </h3>
+
+      <p class="paper-authors">
+        Hongzheng Chen*, <strong>Yingheng Wang*</strong>, Yaohui Cai*, Hins Hu*, Jiajie Li*, 
+        Shirley Huang, Chenhui Deng, Rongjian Liang, Shufeng Kong, Haoxing Ren, 
+        Samitha Samaranayake, Carla P. Gomes, Zhiru Zhang
+      </p>
+
+      <p class="paper-venue">
+        <em>NeurIPS 2025</em> · MATH-AI
+      </p>
+
+      <div class="paper-links">
+        <a href="PAPER_URL_HERE" target="_blank" rel="noopener">
+          📄 Paper
+        </a>
+        <a href="CODE_URL_HERE" target="_blank" rel="noopener">
+          🌐 Code
+        </a>
+      </div>
+      </article>
+
+      <article class="paper-card">
+        <h3 class="paper-title">
+          LC-PLM: Long-context Protein Language Modeling Using Bidirectional Mamba with Shared Projection Layers
+        </h3>
+        <p class="paper-authors">
+          <strong>Yingheng Wang</strong>, Zichen Wang, Gil Sadeh, Luca Zancato, Alessandro Achille, George Karypis, Huzefa Rangwala.
+        </p>
+        <p class="paper-venue">
+          <em>TMLR 2025</em>
+        </p>
+        <div class="paper-links">
+          <a href="https://openreview.net/forum?id=dWvztQzfy4" target="_blank" rel="noopener">
+            📄 Paper
+          </a>
+          <a href="https://github.com/amazon-science/LC-PLM" target="_blank" rel="noopener">
+            🌐 Code
+          </a>
+        </div>
+      </article>
+
+      <article class="paper-card">
+        <h3 class="paper-title">
+          Diffusion Variational Inference: Diffusion Models as Expressive Variational Posteriors
+        </h3>
+
+        <p class="paper-authors">
+          <strong>Yingheng Wang*</strong>, Top Wasu Piriyakulkij*, Volodymyr Kuleshov
+        </p>
+
+        <p class="paper-venue">
+          <em>AAAI 2025</em>
+        </p>
+
+        <div class="paper-links">
+          <a href="PAPER_URL_HERE" target="_blank" rel="noopener">
+            📄 Paper
+          </a>
+          <a href="CODE_URL_HERE" target="_blank" rel="noopener">
+            🌐 Code
+          </a>
+        </div>
+      </article>
+
+      <article class="paper-card">
+      <h3 class="paper-title">
+        InfoDiffusion: Representation Learning Using Information Maximizing Diffusion Models
+      </h3>
+
+      <p class="paper-authors">
+        <strong>Yingheng Wang</strong>, Yair Schiff, Aaron Gokaslan, Weishen Pan, 
+        Fei Wang, Christopher De Sa, Volodymyr Kuleshov
+      </p>
+
+      <p class="paper-venue">
+        <em>ICML 2023</em>
+      </p>
+
+      <div class="paper-links">
+        <a href="PAPER_URL_HERE" target="_blank" rel="noopener">
+          📄 Paper
+        </a>
+        <a href="CODE_URL_HERE" target="_blank" rel="noopener">
+          🌐 Code
+        </a>
+      </div>
+      </article>
+
+    
+      </div>
+      <p><a class="cta" href="publications.html">See full list &rarr;</a></p>
+      </section>
+
+      <section aria-labelledby="services">
+        <h2 id="services">Services</h2>
+        <p><strong>Area Chair</strong>: NeurIPS (AI4Science).</p>
+        <p><strong>Conference Reviewer</strong>: ICML, NeurIPS, ICLR, AAAI, AISTATS, UAI, CVPR, ICCV, ECCV.</p>
+        <p><strong>Journal Reviewer</strong>: IEEE Transactions on Knowledge and Data Engineering (TKDE), Bioinformatics, Journal of Biomedical Informatics (JBI), Smart Health, Acta Automatica Sinica.</p>
+      </section>
+    </main>
 
     <footer>
-      <p>&nbsp; &copy 2018 Jingchao Ni</p>
-      <p>Last modified: 2025-11-07. &nbsp;</p>
+      <div class="wrapper">
+        &copy; 2025 Yingheng Wang &middot; Last updated: 2025-12-26
+      </div>
     </footer>
-    
-</body>
-
+  </body>
 </html>
