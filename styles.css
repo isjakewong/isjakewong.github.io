@@ -226,3 +226,31 @@ section[aria-labelledby="highlights"] > p {
   margin-top: 24px;
   text-align: center; /* 按钮居中，也可改为right/left */
 }
+
+/* Publication badge inline style simplified */
+.pub-badge {
+  padding: 2px 8px;
+  background: #e0e0e0;
+  color: var(--big-red);
+  font-size: 0.8em;
+  border-radius: 4px;
+  text-decoration: none;
+}
+.pub-badge:hover {
+  text-decoration: none;
+  color: var(--dark-red);
+}
+
+/* Publication Tags */
+.pub-tag {
+  padding: 2px 8px;
+  background: #e0e0e0;
+  color: var(--big-red);
+  font-size: 0.8em;
+  border-radius: 4px;
+  text-decoration: none;
+}
+.pub-tag:hover {
+  background: #d4d4d4;
+  text-decoration: none;
+}
